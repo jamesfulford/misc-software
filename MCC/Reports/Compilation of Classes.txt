@@ -1,0 +1,20 @@
+{
+    "Fly Tying for Beginners": {
+        "Course Title": "Fly Tying for Beginners", 
+        "Seat Capacity": "0", 
+        "Seats Remaining": "0", 
+        "Seats Taken": "0", 
+        "Waitlist Seats": "0", 
+        "Waitlist Seats Available": "0", 
+        "Waitlist Seats Taken": "0"
+    }, 
+    "Introduction to Python": {
+        "Course Title": "Introduction to Python", 
+        "Seat Capacity": "22", 
+        "Seats Remaining": "13", 
+        "Seats Taken": "9", 
+        "Waitlist Seats": "22", 
+        "Waitlist Seats Available": "22", 
+        "Waitlist Seats Taken": "0"
+    }
+}
