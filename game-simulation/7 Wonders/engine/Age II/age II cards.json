@@ -1,0 +1,208 @@
+{
+    "stables": {
+        "benefit": {
+            "military": 2
+        },
+        "cost": {
+            "brick": 1,
+            "wood": 1,
+            "ore": 1
+        },
+        "prebuild": [
+            "apothecary"
+        ]
+    },
+    "walls": {
+        "benefit": {
+            "military": 2
+        },
+        "cost": {
+            "stone": 3
+        }
+    },
+    "quarry": {
+        "benefit": {
+            "stone": 2
+        },
+        "cost": {
+            "coins": 1
+        }
+    },
+    "aqueduct": {
+        "benefit": {
+            "points": 5
+        },
+        "cost": {
+            "stone": 3
+        },
+        "prebuild": [
+            "baths"
+        ]
+    },
+    "caravansery": {
+        "benefit": {
+            "wood/stone/ore/brick": 1
+        },
+        "cost": {
+            "wood": 2
+        },
+        "prebuild": [
+            "marketplace"
+        ]
+    },
+    "library": {
+        "benefit": {
+            "science": "tablet"
+        },
+        "cost": {
+            "stone": 2,
+            "cloth": 1
+        },
+        "prebuild": [
+            "scriptorium"
+        ]
+    },
+    "school": {
+        "benefit": {
+            "science": "tablet"
+        },
+        "cost": {
+            "wood": 1,
+            "paper": 1
+        }
+    },
+    "laboratory": {
+        "benefit": {
+            "science": "gear"
+        },
+        "cost": {
+            "brick": 2,
+            "paper": 1
+        },
+        "prebuild": [
+            "workshop"
+        ]
+    },
+    "training ground": {
+        "benefit": {
+            "military": 2
+        },
+        "cost": {
+            "wood": 1,
+            "ore": 2
+        }
+    },
+    "dispensary": {
+        "benefit": {
+            "science": "compass"
+        },
+        "cost": {
+            "glass": 1,
+            "ore": 2
+        },
+        "prebuild": [
+            "apothecary"
+        ]
+    },
+    "temple": {
+        "benefit": {
+            "points": 3
+        },
+        "cost": {
+            "brick": 1,
+            "wood": 1,
+            "glass": 1
+        },
+        "prebuild": [
+            "altar"
+        ]
+    },
+    "statue": {
+        "benefit": {
+            "points": 4
+        },
+        "cost": {
+            "wood": 1,
+            "ore": 2
+        },
+        "prebuild": [
+            "theater"
+        ]
+    },
+    "courthouse": {
+        "benefit": {
+            "points": 4
+        },
+        "cost": {
+            "brick": 2,
+            "cloth": 1
+        },
+        "prebuild": [
+            "scriptorium"
+        ]
+    },
+    "foundry": {
+        "benefit": {
+            "ore": 2
+        },
+        "cost": {
+            "coins": 1
+        }
+    },
+    "archery range": {
+        "benefit": {
+            "military": 2
+        },
+        "cost": {
+            "wood": 2,
+            "ore": 1
+        },
+        "prebuild": [
+            "workshop"
+        ]
+    },
+    "sawmill": {
+        "benefit": {
+            "wood": 2
+        },
+        "cost": {
+            "coin": 1
+        }
+    },
+    "brickyard": {
+        "benefit": {
+            "brick": 2
+        },
+        "cost": {
+            "coins": 1
+        }
+    },
+    "forum": {
+        "benefit": {
+            "glass/cloth/paper": 1
+        },
+        "cost": {
+            "brick": 2
+        },
+        "prebuild": [
+            "east trading post",
+            "west trading post"
+        ]
+    },
+    "bazar": {
+        "benefit": {
+            "coins": {
+                "value": 2,
+                "per": "silver left right home"
+            }
+        }
+    },
+    "vineyard": {
+        "benefit": {
+            "coins": {
+                "value": 1,
+                "per": "brown left right home"
+            }
+        }
+    }
+}

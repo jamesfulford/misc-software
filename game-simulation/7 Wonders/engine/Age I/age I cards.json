@@ -1,0 +1,176 @@
+{
+    "theater": {
+        "benefit": {
+            "points": 2
+        }
+    },
+    "altar": {
+        "benefit": {
+            "points": 3
+        }
+    },
+    "east trading post": {
+        "benefit": {
+            "trade left": 1
+        }
+    },
+    "stockade": {
+        "benefit": {
+            "miltary": 1
+        },
+        "cost": {
+            "wood": 1
+        }
+    },
+    "glassworks": {
+        "benefit": {
+            "glass": 1
+        }
+    },
+    "stone pit": {
+        "benefit": {
+            "stone": 1
+        }
+    },
+    "loom": {
+        "benefit": {
+            "cloth": 1
+        }
+    },
+    "guard tower": {
+        "benefit": {
+            "miltary": 1
+        },
+        "cost": {
+            "brick": 1
+        }
+    },
+    "apothecary": {
+        "benefit": {
+            "science": "compass"
+        },
+        "cost": {
+            "cloth": 1
+        }
+    },
+    "baths": {
+        "benefit": {
+            "points": 3
+        },
+        "cost": {
+            "stone": 1
+        }
+    },
+    "lumber yard": {
+        "benefit": {
+            "wood": 1
+        }
+    },
+    "timber yard": {
+        "benefit": {
+            "wood/stone": 1
+        },
+        "cost": {
+            "coins": 1
+        }
+    },
+    "marketplace": {
+        "benefit": {
+            "trade refine": 1
+        }
+    },
+    "scriptorium": {
+        "benefit": {
+            "science": "tablet"
+        },
+        "cost": {
+            "paper": 1
+        }
+    },
+    "west trading post": {
+        "benefit": {
+            "trade left": 1
+        }
+    },
+    "clay pool": {
+        "benefit": {
+            "brick": 1
+        }
+    },
+    "barracks": {
+        "benefit": {
+            "military": 1
+        },
+        "cost": {
+            "ore": 1
+        }
+    },
+    "workshop": {
+        "benefit": {
+            "science": "gear"
+        },
+        "cost": {
+            "glass": 1
+        }
+    },
+    "press": {
+        "benefit": {
+            "paper": 1
+        }
+    },
+    "clay pit": {
+        "benefit": {
+            "brick/ore": 1
+        },
+        "cost": {
+            "coins": 1
+        }
+    },
+    "ore vein": {
+        "benefit": {
+            "ore": 1
+        }
+    },
+    "excavation": {
+        "benefit": {
+            "stone/brick": 1
+        },
+        "cost": {
+            "coins": 1
+        }
+    },
+    "pawnshop": {
+        "benefit": {
+            "points": 3
+        }
+    },
+    "tavern": {
+        "benefit": {
+            "coins": 5
+        }
+    },
+    "forest cave": {
+        "benefit": {
+            "wood/stone": 1
+        },
+        "cost": {
+            "coins": 1
+        }
+    },
+    "mine": {
+        "benefit": {
+            "stone/ore": 1
+        },
+        "cost": {
+            "coins": 1
+        }
+    },
+    "tree farm": {
+        "benefit": {
+            "wood": 1
+        },
+        "cost": {
+            "coins": 1
+        }
+    }
+}

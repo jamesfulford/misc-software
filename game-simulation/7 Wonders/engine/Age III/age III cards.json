@@ -1,0 +1,250 @@
+{
+    "palace": {
+        "benefit": {
+            "points": 8
+        },
+        "cost": {
+            "stone": 1,
+            "brick": 1,
+            "wood": 1,
+            "ore": 1,
+            "glass": 1,
+            "paper": 1,
+            "cloth": 1
+        }
+    },
+    "gardens": {
+        "benefit": {
+            "points": 5
+        },
+        "cost": {
+            "brick": 2,
+            "wood": 1
+        },
+        "prebuild": [
+            "statue"
+        ]
+    },
+    "town hall": {
+        "benefit": {
+            "points": 6
+        },
+        "cost": {
+            "stone": 2,
+            "ore": 1,
+            "glass": 1
+        }
+    },
+    "chamber of commerce": {
+        "benefit": {
+            "coins": {
+                "value": 2,
+                "per": "silver home"
+            },
+            "points": {
+                "value": 2,
+                "per": "silver home"
+            }
+        },
+        "cost": {
+            "brick": 2,
+            "paper": 1
+        }
+    },
+    "haven": {
+        "benefit": {
+            "points": {
+                "value": 1,
+                "per": "brown home"
+            },
+            "coins": {
+                "value": 1,
+                "per": "brown home"
+            }
+        },
+        "cost": {
+            "wood": 1,
+            "ore": 1,
+            "cloth": 1
+        },
+        "prebuild": [
+            "forum"
+        ]
+    },
+    "lighthouse": {
+        "benefit": {
+            "coins": {
+                "value": 1,
+                "per": "gold home"
+            },
+            "points": {
+                "value": 1,
+                "per": "gold home"
+            }
+        },
+        "cost": {
+            "stone": 1,
+            "glass": 1
+        },
+        "prebuild": [
+            "caravansery"
+        ]
+    },
+    "study": {
+        "benefit": {
+            "science": "gear"
+        },
+        "cost": {
+            "wood": 1,
+            "paper": 1,
+            "cloth": 1
+        },
+        "prebuild": [
+            "school"
+        ]
+    },
+    "observatory": {
+        "benefit": {
+            "science": "gear"
+        },
+        "cost": {
+            "ore": 2,
+            "glass": 1,
+            "cloth": 1
+        },
+        "prebuild": [
+            "laboratory"
+        ]
+    },
+    "university": {
+        "benefit": {
+            "science": "tablet"
+        },
+        "cost": {
+            "wood": 2,
+            "paper": 1,
+            "glass": 1
+        },
+        "prebuild": [
+            "library"
+        ]
+    },
+    "senate": {
+        "benefit": {
+            "points": 6
+        },
+        "cost": {
+            "wood": 2,
+            "stone": 1,
+            "ore": 1
+        },
+        "prebuild": [
+            "library"
+        ]
+    },
+    "siege workshop": {
+        "benefit": {
+            "military": 3
+        },
+        "cost": {
+            "brick": 3,
+            "wood": 1
+        },
+        "prebuild": [
+            "laboratory"
+        ]
+    },
+    "arsenal": {
+        "benefit": {
+            "military": 3
+        },
+        "cost": {
+            "wood": 2,
+            "ore": 1,
+            "cloth": 1
+        }
+    },
+    "circus": {
+        "benefit": {
+            "military": 3
+        },
+        "cost": {
+            "stone": 3,
+            "ore": 1
+        },
+        "prebuild": [
+            "training grounds"
+        ]
+    },
+    "arena": {
+        "benefit": {
+            "coins": {
+                "value": 3,
+                "per": "wonder home"
+            },
+            "points": {
+                "value": 1,
+                "per": "wonder home"
+            }
+        },
+        "cost": {
+            "brick": 2,
+            "ore": 1
+        },
+        "prebuild": [
+            "dispensary"
+        ]
+    },
+    "lodge": {
+        "benefit": {
+            "science": "compass"
+        },
+        "cost": {
+            "brick": 2,
+            "paper": 1,
+            "cloth": 1
+        },
+        "prebuild": [
+            "dispensary"
+        ]
+    },
+    "academy": {
+        "benefit": {
+            "science": "compass"
+        },
+        "cost": {
+            "stone": 3,
+            "glass": 1
+        },
+        "prebuild": [
+            "school"
+        ]
+    },
+    "fortifications": {
+        "benefit": {
+            "military": 3
+        },
+        "cost": {
+            "ore": 3,
+            "stone": 1
+        },
+        "prebuild": [
+            "walls"
+        ]
+    },
+    "pantheon": {
+        "benefit": {
+            "points": 7
+        },
+        "cost": {
+            "brick": 2,
+            "ore": 1,
+            "glass": 1,
+            "cloth": 1,
+            "paper": 1
+        },
+        "prebuild": [
+            "temple"
+        ]
+    }
+}

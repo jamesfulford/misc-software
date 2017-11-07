@@ -1,0 +1,68 @@
+{
+    "name": "Sample",
+    "calendar": "Not implemented!",
+    "tile_distribution": {
+        "Desert": 4,
+        "Fields": 4,
+        "Forest": 4,
+        "Hills": 4,
+        "Mountains": 4,
+        "Ocean": 4
+    },
+    "producer_distributions": {
+        "Desert": {
+            "Farm": 1,
+            "Mill": 1,
+            "Mine": 1,
+            "Rig": 1,
+            "Vent": 1,
+            "Shaft": 1,
+            "": 4
+        },
+        "Fields": {
+            "Farm": 1,
+            "Mill": 1,
+            "Mine": 1,
+            "Rig": 1,
+            "Vent": 1,
+            "Shaft": 1,
+            "": 4
+        },
+        "Forest": {
+            "Farm": 1,
+            "Mill": 1,
+            "Mine": 1,
+            "Rig": 1,
+            "Vent": 1,
+            "Shaft": 1,
+            "": 4
+        },
+        "Hills": {
+            "Farm": 1,
+            "Mill": 1,
+            "Mine": 1,
+            "Rig": 1,
+            "Vent": 1,
+            "Shaft": 1,
+            "": 4
+        },
+        "Mountains": {
+            "Farm": 1,
+            "Mill": 1,
+            "Mine": 1,
+            "Rig": 1,
+            "Vent": 1,
+            "Shaft": 1,
+            "": 4
+        },
+        "Ocean": {
+            "Farm": 1,
+            "Mill": 1,
+            "Mine": 1,
+            "Rig": 1,
+            "Vent": 1,
+            "Shaft": 1,
+            "": 4
+        }
+    }
+}

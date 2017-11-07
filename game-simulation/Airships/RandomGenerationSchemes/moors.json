@@ -1,0 +1,46 @@
+{
+    "name": "Moors",
+    "calendar": [
+        ["Food", 2, "12P"],
+        ["Iron", 5, "8P"],
+        ["Wood", 4, "8P"],
+        ["Oil", 3, "10P"],
+        ["Hydrogen", 1, "10P"],
+        ["Metals", 0, "6P"]
+    ],
+    "tile_distribution": {
+        "Fields": 3,
+        "Forest": 1,
+        "Hills": 1,
+        "Mountains": 1
+    },
+    "producer_distributions": {
+        "Fields": {
+            "Farm": 1,
+            "Rig": 0.5,
+            "Vent": 0.5,
+            "": 4
+        },
+        "Forest": {
+            "Mill": 1,
+            "Mine": 1,
+            "Rig": 0.5,
+            "Vent": 0.5,
+            "": 4
+        },
+        "Hills": {
+            "Farm": 1,
+            "Mine": 1,
+            "Rig": 0.5,
+            "Vent": 0.5,
+            "": 4
+        },
+        "Mountains": {
+            "Mill": 1,
+            "Rig": 0.5,
+            "Vent": 0.5,
+            "Shaft": 1,
+            "": 4
+        }
+    }
+}

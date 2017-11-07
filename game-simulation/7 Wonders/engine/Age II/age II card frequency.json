@@ -1,0 +1,61 @@
+{
+    "7": {
+        "training ground": 1,
+        "walls": 1,
+        "statue": 1,
+        "aqueduct": 1,
+        "bazar": 1,
+        "school": 1,
+        "forum": 1
+    },
+    "6": {
+        "forum": 1,
+        "archery range": 1,
+        "vineyard": 1,
+        "training ground": 1,
+        "caravansery": 1,
+        "temple": 1,
+        "library": 1
+    },
+    "5": {
+        "glassworks": 1,
+        "loom": 1,
+        "press": 1,
+        "laboratory": 1,
+        "courthouse": 1,
+        "stables": 1,
+        "caravansery": 1
+    },
+    "4": {
+        "training ground": 1,
+        "dispensary": 1,
+        "foundry": 1,
+        "brickyard": 1,
+        "bazar": 1,
+        "quarry": 1,
+        "sawmill": 1
+    },
+    "3": {
+        "press": 1,
+        "loom": 1,
+        "caravansery": 1,
+        "library": 1,
+        "school": 1,
+        "laboratory": 1,
+        "temple": 1,
+        "statue": 1,
+        "foundry": 1,
+        "archery range": 1,
+        "sawmill": 1,
+        "courthouse": 1,
+        "vineyard": 1,
+        "glassworks": 1,
+        "stables": 1,
+        "walls": 1,
+        "aqueduct": 1,
+        "brickyard": 1,
+        "quarry": 1,
+        "forum": 1,
+        "dispensary": 1
+    }
+}

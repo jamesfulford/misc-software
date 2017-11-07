@@ -1,0 +1,469 @@
+{
+    "Alexandria": {
+        "A": {
+            "resources": {
+                "glass": 1
+            },
+            "wonder": [
+                {
+                    "benefit": {
+                        "points": 3
+                    },
+                    "cost": {
+                        "stone": 2
+                    }
+                },
+                {
+                    "benefit": {
+                        "brick/ore/wood/stone": 1
+                    },
+                    "cost": {
+                        "ore": 2
+                    }
+                },
+                {
+                    "benefit": {
+                        "points": 7
+                    },
+                    "cost": {
+                        "glass": 2
+                    }
+                }
+            ]
+        },
+        "B": {
+            "resources": {
+                    "glass": 1
+                },
+            "wonder": [
+                {
+                    "benefit": {
+                        "wood/stone/ore/brick": 1
+                    },
+                    "cost": {
+                        "brick": 2
+                    }
+                },
+                {
+                    "benefit": {
+                        "glass/cloth/paper": 1
+                    },
+                    "cost": {
+                        "wood": 2
+                    }
+                },
+                {
+                    "benefit": {
+                        "points": 7
+                    },
+                    "cost": {
+                        "stone": 3
+                    }
+                }
+            ]
+        }
+    },
+    "Halikanarssos": {
+        "A": {
+            "resources": {
+                "cloth": 1
+            },
+            "wonder": [
+                {
+                    "benefit": {
+                        "points": 3
+                    },
+                    "cost": {
+                        "brick": 2
+                    }
+                },
+                {
+                    "benefit": {
+                        "discard_play": 1
+                    },
+                    "cost": {
+                        "ore": 3
+                    }
+                },
+                {
+                    "benefit": {
+                        "points": 7
+                    },
+                    "cost": {
+                        "cloth": 2
+                    }
+                }
+            ]
+        },
+        "B": {
+            "resources": {
+                "cloth": 1
+            },
+            "wonder": [
+                {
+                    "benefit": {
+                        "points": 2,
+                        "discard_play": 1
+                    },
+                    "cost": {
+                        "ore": 2
+                    }
+                },
+                {
+                    "benefit": {
+                        "points": 1,
+                        "discard_play": 1
+                    },
+                    "cost": {
+                        "brick": 3
+                    }
+                },
+                {
+                    "benefit": {
+                        "discard_play": 1
+                    },
+                    "cost": {
+                        "glass": 1,
+                        "cloth": 1,
+                        "paper": 1
+                    }
+                }
+            ]
+        }
+    },
+    "Olympia": {
+        "A": {
+            "resources": {
+                "wood": 1
+            },
+            "wonder": [
+                {
+                    "benefit": {
+                        "points": 3
+                    },
+                    "cost": {
+                        "wood": 2
+                    }
+                },
+                {
+                    "benefit": {
+                        "ignore cost per age": 1
+                    },
+                    "cost": {
+                        "stone": 2
+                    }
+                },
+                {
+                    "benefit": {
+                        "points": 7
+                    },
+                    "cost": {
+                        "ore": 2
+                    }
+                }
+            ]
+        },
+        "B": {
+            "resources": {
+                "wood": 1
+            },
+            "wonder": [
+                {
+                    "benefit": {
+                        "trade left": 1,
+                        "trade right": 1
+                    },
+                    "cost": {
+                        "wood": 2
+                    }
+                },
+                {
+                    "benefit": {
+                        "points": 5
+                    },
+                    "cost": {
+                        "stone": 2
+                    }
+                },
+                {
+                    "benefit": {
+                        "copy_guild": 1
+                    },
+                    "cost": {
+                        "cloth": 1,
+                        "ore": 2
+                    }
+                }
+            ]
+        }
+    },
+    "Babylon": {
+        "A": {
+            "resources": {
+                "brick": 1
+            },
+            "wonder": [
+                {
+                    "benefit": {
+                        "points": 3
+                    },
+                    "cost": {
+                        "brick": 2
+                    }
+                },
+                {
+                    "benefit": {
+                        "science": "tablet/compass/gear"
+                    },
+                    "cost": {
+                        "wood": 3
+                    }
+                },
+                {
+                    "benefit": {
+                        "points": 7
+                    },
+                    "cost": {
+                        "brick": 4
+                    }
+                }
+            ]
+        },
+        "B": {
+            "resources": {
+                "brick": 1
+            },
+            "wonder": [
+                {
+                    "benefit": {
+                        "points": 3
+                    },
+                    "cost": {
+                        "brick": 1,
+                        "cloth": 1
+                    }
+                },
+                {
+                    "benefit": {
+                        "double_play_per_age": 1
+                    },
+                    "cost": {
+                        "wood": 2,
+                        "glass": 1
+                    }
+                },
+                {
+                    "benefit": {
+                        "science": "tablet/compass/gear"
+                    },
+                    "cost": {
+                        "brick": 3,
+                        "paper": 1
+                    }
+                }
+            ]
+        }
+    },
+    "Gizah": {
+        "A": {
+            "resources": {
+                "stone": 1
+            },
+            "wonder": [
+                {
+                    "benefit": {
+                        "points": 3
+                    },
+                    "cost": {
+                        "stone": 2
+                    }
+                },
+                {
+                    "benefit": {
+                        "points": 5
+                    },
+                    "cost": {
+                        "wood": 3
+                    }
+                },
+                {
+                    "benefit": {
+                        "points": 7
+                    },
+                    "cost": {
+                        "stone": 4
+                    }
+                }
+            ]
+        },
+        "B": {
+            "resources": {
+                "stone": 1
+            },
+            "wonder": [
+                {
+                    "benefit": {
+                        "points": 3
+                    },
+                    "cost": {
+                        "wood": 2
+                    }
+                },
+                {
+                    "benefit": {
+                        "points": 5
+                    },
+                    "cost": {
+                        "stone": 3
+                    }
+                },
+                {
+                    "benefit": {
+                        "points": 5
+                    },
+                    "cost": {
+                        "brick": 3
+                    }
+                },
+                {
+                    "benefit": {
+                        "points": 7
+                    },
+                    "cost": {
+                        "stone": 4,
+                        "paper": 1
+                    }
+                }
+            ]
+        }
+    },
+    "Ephesus": {
+        "A": {
+            "resources": {
+                "paper": 1
+            },
+            "wonder": [
+                {
+                    "benefit": {
+                        "points": 3
+                    },
+                    "cost": {
+                        "stone": 2
+                    }
+                },
+                {
+                    "benefit": {
+                        "coins": 9
+                    },
+                    "cost": {
+                        "wood": 2
+                    }
+                },
+                {
+                    "benefit": {
+                        "points": 7
+                    },
+                    "cost": {
+                        "paper": 2
+                    }
+                }
+            ]
+        },
+        "B": {
+            "resources": {
+                "paper": 1
+            },
+            "wonder": [
+                {
+                    "benefit": {
+                        "points": 2,
+                        "coins": 4
+                    },
+                    "cost": {
+                        "stone": 2
+                    }
+                },
+                {
+                    "benefit": {
+                        "points": 3,
+                        "coints": 4
+                    },
+                    "cost": {
+                        "wood": 2
+                    }
+                },
+                {
+                    "benefit": {
+                        "points": 5,
+                        "coins": 4
+                    },
+                    "cost": {
+                        "cloth": 1,
+                        "paper": 1,
+                        "glass": 1
+                    }
+                }
+            ]
+        }
+    },
+    "Rhodes": {
+        "A": {
+            "resources": {
+                "ore": 1
+            },
+            "wonder": [
+                {
+                    "benefit": {
+                        "points": 3
+                    },
+                    "cost": {
+                        "wood": 2
+                    }
+                },
+                {
+                    "benefit": {
+                        "military": 2
+                    },
+                    "cost": {
+                        "brick": 3
+                    }
+                },
+                {
+                    "benefit": {
+                        "points": 7
+                    },
+                    "cost": {
+                        "ore": 4
+                    }
+                }
+            ]
+        },
+        "B": {
+            "resources": {
+                "ore": 1
+            },
+            "wonder": [
+                {
+                    "benefit": {
+                        "points": 3,
+                        "military": 1,
+                        "coins": 3
+                    },
+                    "cost": {
+                        "stone": 3
+                    }
+                },
+                {
+                    "benefit": {
+                        "points": 4,
+                        "coins": 4,
+                        "military": 1
+                    },
+                    "cost": {
+                        "ore": 4
+                    }
+                }
+            ]
+        }
+    }
+}

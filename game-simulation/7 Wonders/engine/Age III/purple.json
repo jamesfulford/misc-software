@@ -1,0 +1,128 @@
+{
+    "strategists guild": {
+        "benefit": {
+            "points": {
+                "value": 1,
+                "per": "loss left right"
+            }
+        },
+        "cost": {
+            "ore": 2,
+            "stone": 1,
+            "cloth": 1
+        }
+    },
+    "traders guild": {
+        "benefit": {
+            "points": {
+                "value": 1,
+                "per": "gold left right"
+            }
+        },
+        "cost": {
+            "glass": 1,
+            "paper": 1,
+            "cloth": 1
+        }
+    },
+    "magistrates guild": {
+        "benefit": {
+            "points": {
+                "value": 1,
+                "per": "blue left right"
+            }
+        },
+        "cost": {
+            "wood": 3,
+            "stone": 1,
+            "cloth": 1
+        }
+    },
+    "shipowners guild": {
+        "benefit": {
+            "points": {
+                "value": 1,
+                "per": ["brown home", "silver home", "purple home"]
+            }
+        },
+        "cost": {
+            "wood": 3,
+            "glass": 1,
+            "paper": 1
+        }
+    },
+    "workers guild": {
+        "benefit": {
+            "points": {
+                "value": 1,
+                "per": "brown left right"
+            }
+        },
+        "cost": {
+            "ore": 2,
+            "stone": 1,
+            "brick": 1,
+            "wood": 1
+        }
+    },
+    "spies guild": {
+        "benefit": {
+            "points": {
+                "value": 1,
+                "per": "red left right"
+            }
+        },
+        "cost": {
+            "brick": 3,
+            "glass": 1
+        }
+    },
+    "philosophers guild": {
+        "benefit": {
+            "points": {
+                "value": 1,
+                "per": "green left right"
+            }
+        },
+        "cost": {
+            "brick": 3,
+            "paper": 1,
+            "cloth": 1
+        }
+    },
+    "craftsmens guild": {
+        "benefit": {
+            "points": {
+                "value": 2,
+                "per": "silver left right"
+            }
+        },
+        "cost": {
+            "ore": 2,
+            "stone": 2
+        }
+    },
+    "builders guild": {
+        "benefit": {
+            "points": {
+                "value": 1,
+                "per": "wonder left right home"
+            }
+        },
+        "cost": {
+            "stone": 2,
+            "brick": 2,
+            "glass": 1
+        }
+    },
+    "scientists guild": {
+        "benefit": {
+            "science": "compass/tablet/gear"
+        },
+        "cost": {
+            "wood": 2,
+            "ore": 2,
+            "paper": 1
+        }
+    }
+}

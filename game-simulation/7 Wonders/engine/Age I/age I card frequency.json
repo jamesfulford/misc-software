@@ -1,0 +1,61 @@
+{
+    "7": {
+        "pawnshop": 1,
+        "tavern": 1,
+        "west trading post": 1,
+        "stockade": 1,
+        "baths": 1,
+        "east trading post": 1,
+        "workshop": 1
+    },
+    "6": {
+        "tree farm": 1,
+        "glassworks": 1,
+        "press": 1,
+        "loom": 1,
+        "mine": 1,
+        "marketplace": 1,
+        "theater": 1
+    },
+    "5": {
+        "altar": 1,
+        "barracks": 1,
+        "clay pool": 1,
+        "apothecary": 1,
+        "stone pit": 1,
+        "tavern": 1,
+        "forest cave": 1
+    },
+    "4": {
+        "guard tower": 1,
+        "tavern": 1,
+        "scriptorium": 1,
+        "pawnshop": 1,
+        "ore vein": 1,
+        "excavation": 1,
+        "lumber yard": 1
+    },
+    "3": {
+        "ore vein": 1,
+        "clay pit": 1,
+        "press": 1,
+        "workshop": 1,
+        "barracks": 1,
+        "clay pool": 1,
+        "west trading post": 1,
+        "scriptorium": 1,
+        "marketplace": 1,
+        "timber yard": 1,
+        "lumber yard": 1,
+        "baths": 1,
+        "apothecary": 1,
+        "guard tower": 1,
+        "loom": 1,
+        "stone pit": 1,
+        "glassworks": 1,
+        "stockade": 1,
+        "east trading post": 1,
+        "altar": 1,
+        "theater": 1
+    }
+}
