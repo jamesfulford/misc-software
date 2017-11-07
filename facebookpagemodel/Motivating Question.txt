@@ -1,0 +1,41 @@
+James P. Fulford
+2/7/2017
+--------------------------------------------------------------------------------
+Motivating Question:
+    "How do Facebook pages grow over time?"
+
+Other side questions:
+    "How do non-profit Facebook pages grow during the holiday season?" (Short-run analysis)
+
+--------------------------------------------------------------------------------
+Outline of Data:
+
+    There are 9 pages being studied for this project. Each belonged to a non-profit and was managed by my company.
+
+    Each of these pages was at a different level of development; some were established pillars in their community, while some were created in the time frame studied here.
+
+    Values for each variable are grouped by week, with Week 0 starting on 11/8/16 and going for 12 weeks.
+
+    My company's social media services were not fully worked out at the time, so this is a good opportunity to see how less motivated and less organized pages grow (or not) over time.
+
+--------------------------------------------------------------------------------
+Variables:
+
+    Time
+    Growth (3 variables):
+        Engagements     (Column E) [index 4]
+        Likes           (Column C) [index 2]
+        Reach           (Column H) [index 7]
+
+    Confounding:
+        Content:
+            For the most part, our social media service was not set up entirely for all of these accounts. So, postings were not so frequent, and definitely not consistent across accounts.
+        Christmas:
+            Holiday season is known to be a season of giving and receiving - especially for non-profits
+        First-fruits:
+            Non-profit ministries may have more testimonials at start of year
+        Post frequency:
+            Not a measure of growth, but research shows that a positive correlation exists... may not be linear
+        Elections and Politics:
+            Date selection starts on election day - coincidence
+            Subject matter of non-profits may be subtly politically oriented, increasing engagement
