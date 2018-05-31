@@ -1,0 +1,593 @@
+CRN,CODE,TITLE,CR,DATE,DAYS,TIME,COST
+13785,ACCT100M,Bookkeeping for Small Business,3,8/28-12/15,,Online,$788
+13786,ACCT113M,Introduction to Accounting and Financial Reporting I,3,8/28-12/15,,Online,$678
+13787,ACCT113M,Introduction to Accounting and Financial Reporting I,3,8/28-12/15,T R,9:30-10:45am,$678
+13788,ACCT113M,Introduction to Accounting and Financial Reporting I,3,8/28-12/15,M W,11am-12:15pm,$678
+13789,ACCT113M,Introduction to Accounting and Financial Reporting I,3,8/28-12/15,T,6:30-9pm,$678
+13791,ACCT113M,Introduction to Accounting and Financial Reporting I,3,8/28-12/15,T R,8-9:15am,$678
+13792,ACCT123M,Introduction to Accounting and Financial Reporting II (P),3,8/28-12/15,R,6:30-9pm,$678
+13793,ACCT123M,Introduction to Accounting and Financial Reporting II (P),3,8/28-12/15,,Online,$678
+13794,ACCT123M,Introduction to Accounting and Financial Reporting II (P),3,8/28-12/15,M W,12:30-1:45pm,$678
+13796,ACCT213M,Cost Accounting I (P),3,8/28-12/15,T R,11am-12:15pm,$678
+13797,ACCT213M,Cost Accounting I (P),3,8/28-12/15,M,6:30-9pm,$678
+13798,ACCT213M,Cost Accounting I (P),3,8/28-12/15,,Online,$678
+13799,ACCT216M,Software System Applications (P),3,8/28-12/15,M,11am-2:20pm,$788
+13801,ACCT220M,Intermediate Accounting I (P),3,8/28-12/15,W,6:30-9pm,$678
+13802,ACCT220M,Intermediate Accounting I (P),3,8/28-12/15,,Online,$678
+13804,ACCT243M,Federal Income Taxes - Individuals (P),3,8/28-12/15,M,5-7:30pm,$678
+14274,ADMN122M,Executive Keyboarding,3,8/28-12/15,T R,8-9:40am,$788
+13814,ADMT110M,Manufacturing Processes (P) HYBRIDOnline plus in class Saturdays,3,8/28-12/15,S,8-11:30am,$788
+14451,ADMT110M,Manufacturing Processes (P) HYBRIDOnline plus in class Thursdays,3,8/28-12/15,R,6-9:20pm,$788
+14456,ADMT112M,Introduction to Engineering Design and Solid Modeling (P) HYBRIDOnline plus in class Fridays,4,8/28-12/15,F,6-10:10pm,"$1,014"
+14457,ADMT112M,Introduction to Engineering Design and Solid Modeling (P) HYBRIDOnline plus in class Thursdays,4,8/28-12/15,R,8am-12:10pm,"$1,014"
+13815,ADMT115M,Engineering Print Reading (P),3,8/28-12/15,M,6-10:10pm,$788
+14452,ADMT115M,Engineering Print Reading (P),3,8/28-12/15,T,8am-12:10pm,$788
+14458,ADMT118M,Electrical Fundamentals for Manufacturing (P) HYBRIDOnline plus in class Saturdays,4,8/28-12/15,S,12:30-4:40pm,"$1,014"
+14459,ADMT118M,Electrical Fundamentals for Manufacturing (P) HYBRIDOnline plus in class Wednesdays,4,8/28-12/15,W,6-10:10pm,"$1,014"
+17772,ADMT120M,Motor Controls and PLCs for Manufacturing (P) HYBRIDOnline plus in class Saturdays,4,8/28-12/15,S,8am-12:10pm,"$1,014"
+13816,ADMT135M,Basic Machining Practices (P/C) HYBRIDOnline plus in class Thursdays,3,8/28-12/15,R,6-10:10pm,$898
+17775,ADMT210M,Manufacturing Systems I (P),3,8/28-12/15,T,6-10:10pm,$788
+13817,ADMT220M,Material Science (P),3,8/28-12/15,T,6-10:10pm,$788
+17776,ADMT230M,CAD/CAM for Manufacturing (P),3,8/28-12/15,T,6-10:10pm,$788
+18458,ADMT240M,Manufacturing Systems II (P) HYBRIDOnline plus in class Saturdays,5,8/28-12/15,S,10am-3:50pm,"$1,350"
+13805,AHLT110M,Medical Terminology (P),3,8/28-12/15,M,2-4:30pm,$678
+13806,AHLT110M,Medical Terminology (P),3,8/28-12/15,,Online,$678
+13807,AHLT115M,Phlebotomy (P),3,8/28-10/21,W,5-10pm,$698
+13808,AHLT115M,Phlebotomy (P),3,10/23-12/15,W,5-10pm,$698
+13809,AHLT115M,Phlebotomy (P),3,8/28-10/21,S,9am-2pm,$698
+13810,AHLT115M,Phlebotomy (P),3,10/23-12/15,S,9am-2pm,$698
+13811,AHLT123M,Introduction to Pharmacology (P),3,8/28-12/15,R,2-4:30pm,$678
+13812,AHLT135M,Phlebotomy Internship (P),3,8/28-12/15,,Internship,$678
+13813,AHLT200M,Transcultural Healthcare (P/C),3,8/28-12/15,T,5-7:30pm,$678
+14463,AHLT205M,Medical Ethics and Law (P),3,8/28-10/21,,Online,$678
+14429,AHLT205M,Medical Ethics and Law (P),3,8/28-12/15,M,8-10:30am,$678
+13818,ANTH101M,Introduction to Anthropology,3,8/28-12/15,T,8-10:30am,$678
+13819,ARTS110M,Welding for the Artist,3,8/28-12/15,M,5-9:20pm,$998
+13820,ARTS110M,Welding for the Artist,3,8/28-12/15,R,2-6:20pm,$998
+13821,ARTS110M,Welding for the Artist,3,8/28-12/15,F,2-6:20pm,$998
+13822,ARTS110M,Welding for the Artist,3,8/28-12/15,T,5-9:20pm,$998
+13823,ARTS117M,Art History I,3,8/28-12/15,,Online,$678
+13824,ARTS120M,Digital Photography,3,8/28-12/15,F,8am-12:10pm,$788
+13825,ARTS120M,Digital Photography,3,8/28-12/15,M,5-9:10pm,$788
+17941,ARTS123M,Drawing I,3,8/28-12/15,M,12:30-4:40pm,$788
+13826,ARTS123M,Drawing I,3,8/28-12/15,W,8am-12:10pm,$788
+13827,ARTS123M,Drawing I,3,8/28-12/15,R,5-9:10pm,$788
+13828,ARTS123M,Drawing I,3,8/28-12/15,T,12:30-4:40pm,$788
+13829,ARTS125M,Watercolors I,3,8/28-12/15,F,8am-12:10pm,$788
+13830,ARTS130M,Introduction to Art,3,8/28-12/15,T,11am-1:30pm,$678
+13831,ARTS210M,Painting I,3,8/28-12/15,W,12:30-4:40pm,$788
+14185,ARTS210M,Painting I,3,8/28-12/15,W,5-9:10pm,$788
+14390,ARTS217M,Art History II,3,8/28-12/15,,Online,$678
+17942,ARTS223M,Drawing II (P),3,8/28-12/15,F,12:30-4:40pm,$808
+13833,ASL110M,American Sign Language I,3,8/28-12/15,R,2-4:30pm,$678
+18639,ASL110M,American Sign Language I,3,8/28-12/15,R,2-4:30pm,$678
+18450,AUTO1011M,Maintenance and Light Repair MCAP (P),4,8/28-12/15,W,8am-5:30pm,"$1,124"
+18451,AUTO1011M,Maintenance and Light Repair Global/Subaru (P),4,8/28-12/15,M,8am-5:30pm,"$1,124"
+18453,AUTO1011M,Maintenance and Light Repair MLR/Audi (P),4,8/28-12/15,T,8am-5:30pm,"$1,124"
+18454,AUTO1012M,Electrical Systems (P/C) MCAP,6,8/28-12/15,TM,8am-4:30pm8-10:30am,"$1,686"
+18455,AUTO1012M,Electrical Systems (P/C) Global/Subaru,6,8/28-12/15,RW,8am-5pm8-10:30am,"$1,686"
+18456,AUTO1012M,Electrical Systems (C) MLR/Audi,6,8/28-12/15,MF,8am-4:30pm8-10:30am,"$1,686"
+13834,AUTO101M,Introduction to Service and Maintenance (P),3,8/28-12/15,M T,5:30-8:30pm,$798
+13835,AUTO103M,Basic Electrical Systems,4,8/28-12/15,W,5:30-10:30pm,$964
+13842,AUTO211M,Manual Transmissions and Transaxles (P) Global,4,8/28-12/15,T,10am-3:45pm,"$1,124"
+13843,AUTO211M,Manual Transmissions and Transaxles (P) MCAP,4,8/28-12/15,M,8:30am-2:20pm,"$1,124"
+14278,AUTO211M,Manual Transmissions and Transaxles (P) MLR/Audi,4,8/28-12/15,R,8:30am-4pm,"$1,124"
+13844,AUTO214M,Powertrain and Emission Controls (P) Global,3,8/28-12/15,R,8am-12:20pm,$788
+13845,AUTO214M,Powertrain and Emission Controls (P) MCAP,3,8/28-12/15,R,10:30am-5pm,$788
+14279,AUTO214M,Powertrain and Emission Controls (P) MLR/Audi,3,8/28-12/15,W,8am-12:20pm,$788
+13846,AUTO215M,Advanced Vehicle Systems (P) Global/MCAP,3,8/28-12/15,F,9-11:30am,$678
+13847,AUTO215M,Advanced Vehicle Systems (P) MLR/Audi,3,8/28-12/15,T,2:30-5pm,$678
+17152,BIOL090M,Chemistry Foundations for Anatomy and Physiology,1,8/14-8/17,M T W R,9am-12:20pm,$226
+13848,BIOL099M,Foundations for Biology,3,8/28-12/15,F,8-11:20am,$788
+13849,BIOL099M,Foundations for Biology,3,10/23-12/15,,Online,$788
+13850,BIOL099M,Foundations for Biology,3,8/28-12/15,,Online,$788
+14275,BIOL099M,Foundations for Biology,3,8/28-12/15,W,11am-2:20pm,$788
+13851,BIOL101M,General Concepts in Biology (P),4,8/28-12/15,M W,8-10:30am,"$1,014"
+14276,BIOL101M,General Concepts in Biology (P),4,8/28-12/15,M,5-10pm,"$1,014"
+14219,BIOL102M,Introduction to Botany (P),4,8/28-12/15,T R,8-10:30am,"$1,014"
+13852,BIOL106M,The Human Body (P),3,8/28-12/15,,Online,$678
+13853,BIOL106M,The Human Body (P),3,8/28-12/15,W,11am-1:30pm,$678
+14436,BIOL106M,The Human Body (P),3,10/23-12/15,,Online,$678
+13854,BIOL107M,The Human Body Lab (P),1,8/28-12/15,W,2-4:30pm,$336
+17823,BIOL107M,The Human Body Lab (P),1,10/23-12/15,M,5-10pm,$336
+13855,BIOL108M,College Biology I (P),4,8/28-12/15,T R,8-10:30am,"$1,014"
+14190,BIOL108M,College Biology I (P) HYBRIDOnline plus in class Tuesdays,4,8/28-12/15,T,5-8pm,"$1,014"
+17824,BIOL109M,College Biology II (P),4,8/28-12/15,T R,11am-1:30pm,"$1,014"
+13856,BIOL110M,Human Anatomy and Physiology I (P),4,8/28-12/15,M W,11am-1:30pm,"$1,014"
+13857,BIOL110M,Human Anatomy and Physiology I (P),4,8/28-12/15,M W,2-4:30pm,"$1,014"
+13858,BIOL110M,Human Anatomy and Physiology I (P),4,8/28-12/15,W,5-10pm,"$1,014"
+13859,BIOL110M,Human Anatomy and Physiology I (P),4,8/28-12/15,R,5-10pm,"$1,014"
+13860,BIOL110M,Human Anatomy and Physiology I (P),4,8/28-12/15,S,8am-1pm,"$1,014"
+13861,BIOL110M,Human Anatomy and Physiology I (P),4,8/28-12/15,T R,2-4:30pm,"$1,014"
+13862,BIOL110M,Human Anatomy and Physiology I (P),4,8/28-12/15,M,5-10pm,"$1,014"
+17825,BIOL110M,Human Anatomy and Physiology I (P) HYBRIDOnline plus in class Tuesdays,4,8/28-12/15,T,5-8pm,"$1,014"
+18687,BIOL110M,Human Anatomy and Physiology I (P),4,8/28-12/15,M W,8-10:30am,"$1,014"
+14437,BIOL112M,Human Diseases (P),3,10/23-12/15,,Online,$678
+13863,BIOL120M,Human Anatomy and Physiology II (P),4,8/28-12/15,T R,2-4:30pm,"$1,014"
+13864,BIOL120M,Human Anatomy and Physiology II (P),4,8/28-12/15,W,5-10pm,"$1,014"
+13865,BIOL120M,Human Anatomy and Physiology II (P),4,8/28-12/15,T,5-10pm,"$1,014"
+13866,BIOL120M,Human Anatomy and Physiology II (P),4,8/28-12/15,S,8am-1pm,"$1,014"
+17826,BIOL120M,Human Anatomy and Physiology II (P),4,8/28-12/15,R,5-10pm,"$1,014"
+18032,BIOL130M,Marine Biology (P),4,8/28-12/15,M,11am-4pm,"$1,014"
+13867,BIOL150M,Nutrition,3,8/28-12/15,,Online,$678
+13868,BIOL150M,Nutrition,3,8/28-12/15,T,2-4:30pm,$678
+13869,BIOL150M,Nutrition,3,10/23-12/15,,Online,$678
+13870,BIOL150M,Nutrition,3,8/28-12/15,,Online,$678
+13871,BIOL150M,Nutrition,3,8/28-12/15,W,8-10:30am,$678
+14277,BIOL150M,Nutrition,3,8/28-12/15,R,5-7:30pm,$678
+14484,BIOL150M,Nutrition,3,9/25-12/15,T,8-11:20am,$678
+17141,BIOL150M,Nutrition,3,8/28-12/15,,Online,$678
+17827,BIOL150M,Nutrition,3,9/25-12/15,M,2-5:20pm,$678
+17828,BIOL150M,Nutrition,3,9/25-12/15,,Online,$678
+17829,BIOL151M,Nutrition Lab (C),1,9/25-12/15,M,5:30-8:50pm,$336
+17830,BIOL151M,Nutrition Lab (C),1,9/25-12/15,,Online,$336
+14220,BIOL151M,Nutrition Lab (C),1,8/28-12/15,T,5-7:30pm,$336
+14221,BIOL151M,Nutrition Lab (C),1,8/28-12/15,W,11am-1:30pm,$336
+14438,BIOL151M,Nutrition Lab (C),1,8/28-12/15,,Online,$336
+14439,BIOL151M,Nutrition Lab (C),1,10/23-12/15,,Online,$336
+14440,BIOL151M,Nutrition Lab (C),1,8/28-12/15,R,7:40-10:10pm,$336
+14485,BIOL151M,Nutrition Lab (C),1,10/23-12/15,,Online,$336
+13872,BIOL201M,Principles of Genetics (P),4,8/28-12/15,T R,2-4:30pm,"$1,014"
+17831,BIOL205M,General Ecology (P),4,8/28-12/15,W F,8-10:30am,"$1,014"
+13873,BIOL210M,Microbiology (P),4,8/28-12/15,M W,8-10:30am,"$1,014"
+13874,BIOL210M,Microbiology (P),4,8/28-12/15,W,5-10pm,"$1,014"
+13875,BIOL210M,Microbiology (P),4,8/28-12/15,R,5-10pm,"$1,014"
+14191,BIOL210M,Microbiology (P),4,8/28-12/15,T R,11am-1:30pm,"$1,014"
+14441,BIOL210M,Microbiology (P),4,8/28-12/15,F,11am-4pm,"$1,014"
+13876,BIOL220M,Pathophysiology (P),3,8/28-12/15,,Online,$678
+18425,BLDG214M,Sustainable Building Practices,3,8/28-12/17,,TBD,$678
+18426,BLDG225M,Blueprint Reading/Estimating,4,8/28-12/15,,TBD,"$1,014"
+18651,BUS110M,Introduction to Business (P),3,8/28-12/15,M W,12:30-1:45pm,$678
+18652,BUS110M,Introduction to Business (P),3,8/28-12/15,R,6:30-9pm,$678
+13877,BUS110M,Introduction to Business (P),3,8/28-12/15,,Online,$678
+13878,BUS110M,Introduction to Business (P) HYBRIDOnline plus in class Wednesdays,3,9/25-12/15,W,11am-1:30pm,$678
+14290,BUS110M,Introduction to Business (P),3,8/28-10/21,,Online,$678
+13879,BUS114M,Management (P),3,8/28-12/15,,Online,$678
+13880,BUS114M,Management (P) HYBRIDOnline plus in class Tuesdays,3,9/25-12/15,T,11am-1:30pm,$678
+13881,BUS114M,Management (P) HYBRIDOnline plus in class Wednesdays,3,10/23-12/15,W,2-4:30pm,$678
+13882,BUS114M,Management (P),3,8/28-12/15,W,5-7:30pm,$678
+13883,BUS114M,Management (P),3,10/23-12/15,,Online,$678
+13885,BUS120M,Introduction to Communications Media,3,8/28-12/15,W,2-4:30pm,$678
+13886,BUS124M,Small Business Management,3,8/28-12/15,,Online,$678
+13887,BUS124M,Small Business Management,3,8/28-12/15,T R,11am-12:15pm,$678
+13888,BUS155M,Retail Management (P/C),3,8/28-12/15,M,6:30-9pm,$678
+13889,BUS210M,Organizational Communications (P),3,8/28-12/15,R,6:30-9pm,$678
+13890,BUS212M,Business Law I,3,8/28-12/15,,Online,$678
+13891,BUS212M,Business Law I,3,8/28-12/15,W,2-4:30pm,$678
+13892,BUS212M,Business Law I,3,8/28-12/15,W,5-7:30pm,$678
+13894,BUS216M,Organizational Behavior,3,8/28-12/15,T,6:30-9pm,$678
+13895,BUS220M,Operations Management,3,8/28-12/15,T,5-7:30pm,$678
+13896,BUS221M,Business Finance (P),3,8/28-12/15,,Online,$678
+14282,BUS221M,Business Finance (P) HYBRIDOnline plus in class Mondays,3,8/28-12/15,M,5-6:15pm,$678
+13898,BUS224M,Human Resource Management (P),3,8/28-12/15,T R,2-3:15pm,$678
+18664,BUS227M,Training and Development (P),3,8/28-12/15,,Online,$678
+18665,BUS228M,Seminar in Strategic Human Resource Management,3,8/28-12/15,,Online,$678
+13899,CAD110M,CAD I Fundamentals HYBRID Online plus in class Wednesdays,3,8/28-10/21,W,6-9:20pm,$788
+13900,CAD120M,CAD II Intermediate (P) HYBRIDOnline plus in class Wednesdays,3,10/23-12/15,W,6-9:20pm,$788
+13901,CAD220M,Inventor Fundamentals (P) HYBRIDOnline plus in class Tuesdays,3,8/28-10/21,T,5-10pm,$788
+13902,CAD225M,Design Project for Rapid Prototyping (P) HYBRIDOnline plus in class Tuesdays,4,10/23-12/15,T,5-10pm,"$1,064"
+13903,CHEM090M,Foundations of Chemistry,3,8/28-12/15,M,6-9:20pm,$788
+13904,CHEM090M,Foundations of Chemistry,3,8/28-12/15,W,8-11:20am,$788
+13905,CHEM090M,Foundations of Chemistry,3,8/28-12/15,R,2-5:20pm,$788
+13906,CHEM090M,Foundations of Chemistry,3,8/28-12/15,R,6-9:20pm,$788
+13907,CHEM115M,General Chemistry I (P),4,8/28-12/15,T R,11am-1:30pm,"$1,014"
+13908,CHEM115M,General Chemistry I (P),4,8/28-12/15,W,5-10pm,"$1,014"
+14192,CHEM116M,General Chemistry II (P),4,8/28-12/15,T,5-10pm,"$1,014"
+13909,CIS102M,A+ Preparation - Hardware HYBRID Online plus in class Wednesdays,3,8/28-12/15,W,8-10am,$788
+14443,CIS102M,A+ Preparation - Hardware HYBRID Online plus in class Saturdays,3,8/28-12/15,S,9-10am,$788
+14264,CIS105M,Introduction to Computer Science HYBRID Online plus in class Thursdays,3,8/28-10/21,R,8-10am,$788
+14265,CIS105M,Introduction to Computer Science,3,8/28-10/21,,Online,$788
+14266,CIS105M,Introduction to Computer Science HYBRID Online plus in class Tuesdays,3,8/28-10/21,T,5-7pm,$788
+13910,CIS107M,Introduction to Android Apps Development (C) HYBRIDOnline plus in class Thursdays,3,10/23-12/15,R,11am-12:30pm,$788
+14262,CIS107M,Introduction to Android Apps Development (C),3,10/23-12/15,,Online,$788
+13911,CIS108M,Introduction to Windows Apps Development (C) HYBRIDOnline plus in class Thursdays,3,10/23-12/15,R,8-10am,$788
+18516,CIS110M,Microsoft Computer Applications I,3,8/28-12/15,F,11am-2:20pm,$788
+13912,CIS110M,Microsoft Computer Applications I HYBRID Online plus in class Fridays,3,8/28-12/15,F,8-10am,$788
+13913,CIS110M,Microsoft Computer Applications I HYBRID Online plus in class Wednesdays,3,8/28-12/15,W,11am-1pm,$788
+13914,CIS110M,Microsoft Computer Applications I HYBRID Online plus in class Mondays,3,8/28-12/15,M,6-8pm,$788
+13915,CIS110M,Microsoft Computer Applications I,3,8/28-12/15,,Online,$788
+13916,CIS110M,Microsoft Computer Applications I HYBRID Online plus in class Thursdays,3,8/28-12/15,R,2-4pm,$788
+13917,CIS110M,Microsoft Computer Applications I,3,10/23-12/15,,Online,$788
+14474,CIS110M,Microsoft Computer Applications I,3,9/25-12/15,,Online,$788
+13918,CIS116M,Network + Preparation HYBRID Online plus in class Mondays,4,8/28-12/15,M,11am-1pm,"$1,014"
+13919,CIS124M,Web Programming I,3,8/28-12/15,R,6-9:20pm,$788
+13920,CIS148M,Introduction to Programming using JAVA HYBRID Online plus in class Wednesdays,3,8/28-12/15,W,2-4pm,$788
+13921,CIS158M,Introduction to Programming using C# (C),3,8/28-12/15,,Online,$788
+14393,CIS210M,Data Structures and Elementary Algorithms (P),4,8/28-12/15,,Online,"$1,014"
+13922,CIS220M,Object-Oriented Programming (P) HYBRIDOnline plus in class Wednesdays,3,8/28-12/15,W,8-10am,$788
+13923,CIS233M,Oracle Database Administration I (P),3,8/28-12/15,,Online,$788
+14281,CIS291M,Capstone Senior Seminar (P),3,8/28-12/15,,Online,$788
+17800,CSCN210M,Computer Science in Action I - Technology Innovation (P) HYBRIDOnline plus in class Thursdays,4,8/28-12/15,R,2-4pm,"$1,014"
+13924,CYBD100M,Introduction to Computer Forensics HYBRID Online plus in class Tuesdays,3,8/28-12/15,T,11-1pm,$788
+13925,CYBD100M,Introduction to Computer Forensics HYBRID Online plus in class Mondays,3,8/28-12/15,M,8-10am,$788
+17801,CYBD110M,Investigations and Evidence Recovery (P/C) HYBRIDOnline plus in class Mondays,4,8/28-12/15,M,2-4pm,"$1,014"
+14263,CYBD200M,Certified Ethical Hacker (P),4,8/28-12/15,,Online,"$1,014"
+13926,CYBD210M,Operating System Artifacts (P) HYBRIDOnline plus in class Wednesdays,4,8/28-12/15,W,2-4:30pm,"$1,014"
+13927,CYBD215M,PC Forensics (P/C) HYBRIDOnline plus in class Tuesdays,4,8/28-12/15,T,8-10am,"$1,014"
+13928,CYBD220M,Security + Preparation (P),4,8/28-12/15,,Online,"$1,014"
+14442,CYBD235M,Network Intrusions (P) HYBRIDOnline plus in class Tuesdays,4,8/28-12/15,T,2-4pm,"$1,014"
+13929,ECE100M,Early Childhood Growth and Development,3,8/28-12/15,,Online,$678
+13930,ECE100M,Early Childhood Growth and Development,3,8/28-12/15,W,11am-1:30pm,$678
+13931,ECE100M,Early Childhood Growth and Development,3,8/28-12/15,W,6:30-9pm,$678
+14479,ECE100M,Early Childhood Growth and Development,3,9/25-12/15,,Online,$678
+13932,ECE104M,Foundations of Early Childhood Education,3,8/28-12/15,M,11am-1:30pm,$678
+13933,ECE104M,Foundations of Early Childhood Education,3,8/28-12/15,,Online,$678
+13934,ECE104M,Foundations of Early Childhood Education,3,8/28-12/15,M,6:30-9pm,$678
+13935,ECE104M,Foundations of Early Childhood Education,3,10/23-12/15,,Online,$678
+14186,ECE112M,Preschool Practicum: Learning Environment,3,8/28-12/15,M,2-3:40pm,$788
+14187,ECE112M,Preschool Practicum: Learning Environment Theory Taken with CRN 14186,0,8/28-12/15,,Off Campus,
+14188,ECE112M,Preschool Practicum: Learning Environment Theory Taken with CRN 14186,0,8/28-12/15,,Off Campus,
+13936,ECE116M,Child Health Safety and Nutrition,3,8/28-12/15,,Online,$678
+13937,ECE116M,Child Health Safety and Nutrition,3,8/28-12/15,T,6:30-9pm,$678
+13938,ECE116M,Child Health Safety and Nutrition,3,10/23-12/15,,Online,$678
+13939,ECE200M,Math and Science for Young Children (P),3,8/28-12/15,T,3-5:30pm,$678
+13940,ECE201M,Childrens Individualized and Special Needs (P),3,8/28-12/15,,Online,$678
+13941,ECE202M,Student Teaching Practicum (P)Thursdays and Off Campus M W F,4,8/28-12/15,R,4:30-5:20pm,"$1,234"
+14189,ECE204M,Developmentally Appropriate Curriculum for Infants and Toddlers (P),3,8/28-12/15,T,6:30-9pm,$678
+13942,ECE214M,Developmentally Appropriate Guidance and Discipline for Young Children (P),3,8/28-12/15,R,6:30-9pm,$678
+13943,ECE250M,Childcare Administration and Management (P),3,8/28-12/15,,Online,$678
+13944,ECON134M,Macroeconomics,3,8/28-12/15,,Online,$678
+13945,ECON134M,Macroeconomics,3,8/28-12/15,F,8-10:30am,$678
+13946,ECON134M,Macroeconomics,3,8/28-12/15,T,6:30-9pm,$678
+13947,ECON134M,Macroeconomics,3,8/28-10/21,,Online,$678
+13948,ECON135M,Microeconomics (P),3,8/28-12/15,,Online,$678
+13949,ECON135M,Microeconomics (P),3,8/28-12/15,W,11am-1:30pm,$678
+13950,ECON135M,Microeconomics (P),3,10/23-12/15,,Online,$678
+14256,ENGL095M,Reading and Writing II (P),4,9/25-12/15,M W,2-4:15pm,$904
+14257,ENGL095M,Reading and Writing II (P),4,8/28-12/15,M W,11am-12:40pm,$904
+14258,ENGL095M,Reading and Writing II (P),4,8/28-12/15,T R,8-9:40am,$904
+14259,ENGL095M,Reading and Writing II (P),4,8/28-12/15,T R,11am-12:40pm,$904
+14260,ENGL095M,Reading and Writing II (P),4,8/28-12/15,M W,5-6:40pm,$904
+14261,ENGL095M,Reading and Writing II (P),4,8/28-12/15,T R,2-3:40pm,$904
+14394,ENGL095M,Reading and Writing II (P),4,8/28-12/15,T R,5-6:40pm,$904
+13955,ENGL110M,College Composition I (P),4,8/28-12/15,,Online,$904
+13956,ENGL110M,College Composition I (P),4,8/28-12/15,,Online,$904
+13957,ENGL110M,College Composition I (P),4,8/28-12/15,T R,8-9:40am,$904
+13958,ENGL110M,College Composition I (P)Students are required to bring their own laptop/tablet,4,8/28-12/15,M W,11am-12:40pm,$904
+13959,ENGL110M,College Composition I (P)With permission from English Program CoordinatorStudents are required to bring their own laptop/tablet,4,10/23-12/15,M W,8-11:20am,$904
+13960,ENGL110M,College Composition I (P)Students are required to bring their own laptop/tablet,4,8/28-12/15,F,8-11:20am,$904
+13961,ENGL110M,College Composition I (P),4,8/28-12/15,T,11am-2:20pm,$904
+13962,ENGL110M,College Composition I (P)Students are required to bring their own laptop/tablet,4,8/28-12/15,T R,2-3:40pm,$904
+13963,ENGL110M,College Composition I (P),4,8/28-12/15,R,8-11:20am,$904
+13964,ENGL110M,College Composition I (P),4,8/28-12/15,W,11am-2:20pm,$904
+13965,ENGL110M,College Composition I (P)Students are required to bring their own laptop/tablet,4,9/25-12/15,M W,2-4:15pm,$904
+13966,ENGL110M,College Composition I (P)Students are required to bring their own laptop/tablet,4,8/28-12/15,M W,5-6:40pm,$904
+13967,ENGL110M,College Composition I (P),4,8/28-12/15,T R,5-6:40pm,$904
+13968,ENGL110M,College Composition I (P),4,8/28-12/15,T R,7-8:40pm,$904
+13969,ENGL110M,College Composition I (P),4,8/28-12/15,W,5-8:20pm,$904
+13970,ENGL110M,College Composition I (P),4,8/28-12/15,M W,11am-12:40pm,$904
+13971,ENGL110M,College Composition I (P),4,8/28-12/15,M W,2-3:40pm,$904
+13972,ENGL110M,College Composition I (P),4,9/25-12/15,T R,2-4:15pm,$904
+13973,ENGL110M,College Composition I (P)Students are required to bring their own laptop/tablet,4,8/28-12/15,M W,8-9:40am,$904
+14395,ENGL110M,College Composition I (P)Students are required to bring their own laptop/tablet,4,8/28-12/15,T R,11am-12:40pm,$904
+14450,ENGL110M,College Composition I (P)Students are required to bring their own laptop/tablet,4,8/28-12/15,F,2-5:20pm,$904
+14476,ENGL110M,College Composition I (P),4,9/25-12/15,,Online,$904
+17146,ENGL110M,College Composition I (P)Students are required to bring their own laptop/tablet,4,8/28-12/15,S,9am-12:20pm,$904
+13974,ENGL113M,Introduction to Public Speaking,3,8/28-12/15,F,8-10:30am,$678
+13975,ENGL113M,Introduction to Public Speaking,3,8/28-12/15,W,11am-1:30pm,$678
+13976,ENGL113M,Introduction to Public Speaking,3,8/28-12/15,R,6-8:30pm,$678
+13977,ENGL113M,Introduction to Public Speaking,3,8/28-12/15,M,5-7:30pm,$678
+13978,ENGL113M,Introduction to Public Speaking,3,8/28-12/15,M,2-4:30pm,$678
+13979,ENGL113M,Introduction to Public Speaking,3,10/23-12/15,T R,2-4:30pm,$678
+13980,ENGL113M,Introduction to Public Speaking,3,8/28-12/15,W,2-4:30pm,$678
+17147,ENGL113M,Introduction to Public Speaking,3,8/28-12/15,S,9-11:30am,$678
+13984,ENGL203M,Introduction to Journalism (P),3,8/28-12/15,W,11am-1:30pm,$678
+14396,ENGL206M,Professional Communication (P),3,8/28-12/15,M,2-4:30pm,$678
+17821,ENGL207M,Introduction to Literary Analysis (P),3,8/28-12/15,R,2-4:30pm,$678
+18103,ENGL208M,Modern World Poetry: A Conversation Across Cultures (P),3,8/28-12/15,F,11am-1:30pm,$678
+13985,ENGL213M,Creative Writing (P),3,9/25-12/15,,Online,$678
+13986,ENGL213M,Creative Writing (P),3,8/28-12/15,T,2-4:30pm,$678
+13987,ENGL214M,Creative Non-Fiction (P),3,8/28-10/21,,Online,$678
+13988,ENGL214M,Creative Non-Fiction (P),3,10/23-12/15,M W,11am-1:30pm,$678
+17071,ENGL220M,College Composition II (P),4,8/28-12/15,,Online,$904
+17072,ENGL220M,College Composition II (P),4,8/28-12/15,T,2-5:20pm,$904
+17073,ENGL220M,College Composition II (P),4,8/28-12/15,M,8-11:20am,$904
+17074,ENGL220M,College Composition II (P),4,8/28-12/15,F,8-11:20am,$904
+17075,ENGL220M,College Composition II (P),4,8/28-12/15,T,11am-2:20pm,$904
+17076,ENGL220M,College Composition II (P),4,8/28-12/15,M,5-8:20pm,$904
+17077,ENGL220M,College Composition II (P),4,8/28-12/15,,Online,$904
+17822,ENGL223M,British Literature I (P),3,8/28-12/15,,Online,$678
+18104,ENGL228M,Satirical Literature (P),3,8/28-12/15,W,5-7:30pm,$678
+13993,ENGL235M,American Literature II (P),3,8/28-12/15,W,2-4:30pm,$678
+14461,ENVS115M,Current Issues in Environment (P),3,8/28-12/15,,Online,$678
+17832,ENVS125M,Introduction to Environmental Science (P),4,8/28-12/15,T R,11am-1:30pm,"$1,014"
+13994,ESCI110M,Earth Science (P),4,8/28-12/15,T R,2-4:30pm,"$1,014"
+13995,ESCI110M,Earth Science (P),4,8/28-12/15,,Online,"$1,014"
+13996,ETEC110M,Electrical Fundamentals I Theory A (P)Taken with Lab A CRN 13999,4,8/28-10/21,M W,5-7:30pm,"$1,014"
+13997,ETEC110M,Electrical Fundamentals I Theory 1 (P)Taken with Lab 1 CRN 13998 or Lab 2 CRN 17151,4,8/28-10/21,M W,8-10:30am,"$1,014"
+13998,ETEC110M,Electrical Fundamentals I Lab 1 (P)Taken with Theory 1 CRN 13997,0,8/28-10/21,M W,11am-1:30pm,
+17151,ETEC110M,Electrical Fundamentals I Lab 2 (P)Taken with Theory 1 CRN 13997,0,8/28-10/21,M W,2-4:30pm,
+13999,ETEC110M,Electrical Fundamentals I Lab A (P)Taken with Theory A CRN 13996,0,8/28-10/21,M W,7:40-10:10pm,
+14000,ETEC120M,Electrical Fundamentals II Theory 1 (P)Taken with Lab 1 CRN 14002 or Lab 2 CRN 14003,4,10/23-12/15,M W,8-10:30am,"$1,014"
+14001,ETEC120M,Electrical Fundamentals II Theory A (P)Taken with Lab A CRN 14004,4,10/23-12/15,M W,5-7:30pm,"$1,014"
+14002,ETEC120M,Electrical Fundamentals II Lab 1 (P)Taken with Theory 1 CRN 14000,0,10/23-12/15,M W,11am-1:30pm,
+14003,ETEC120M,Electrical Fundamentals II Lab 2 (P)Taken with Theory 1 CRN 14000,0,10/23-12/15,M W,2-4:30pm,
+14004,ETEC120M,Electrical Fundamentals II Lab A (P)Taken with Theory A CRN 14001,0,10/23-12/15,M W,7:40-10:10pm,
+14006,ETEC210M,Electrical and Electronic Motor Controls Lab A (P)Taken with Theory A CRN 14005,0,8/28-12/15,T,5-7:30pm,
+14007,ETEC210M,Electrical and Electronic Motor Controls Lab B (P)Taken with Theory A CRN 14005,0,8/28-12/15,R,5-7:30pm,
+14267,ETEC210M,Electrical and Electronic Motor Controls Theory 1 (P)Taken with Lab 1 CRN 14268,4,8/28-12/15,T,8-10:30am,"$1,014"
+14268,ETEC210M,Electrical and Electronic Motor Controls Lab 1 (P)Taken with Theory 1 CRN 14267,0,8/28-12/15,T,11am-1:30pm,
+14005,ETEC210M,Electrical and Electronic Motor Controls Theory A (P)Taken with Lab A CRN 14006 or Lab B CRN 14007,4,8/28-12/15,M,5-7:30pm,"$1,014"
+14008,ETEC220M,Communications/Low Voltage Building Systems Theory 1 (P)Taken with Lab 1 CRN 14009,4,8/28-12/15,R,8-10:30am,"$1,014"
+14009,ETEC220M,Communications/Low Voltage Building Systems Lab 1 (P)Taken with Theory 1 CRN 14008,0,8/28-12/15,R,11am-1:30pm,
+14286,ETEC220M,Communications/Low Voltage Building Systems (P),4,8/28-12/15,W,5-10:10pm,"$1,014"
+14472,ETEC220M,Communications/Low Voltage Building Systems (P),4,8/28-12/15,R,5-10pm,"$1,014"
+18041,EXER102M,Wellness and Occupational Injury Prevention,1,8/28-12/15,M,8-9:40am,$336
+14010,EXER105M,Essentials of Exercise Science (P),3,8/28-12/15,W,8-10:30am,$678
+14011,EXER105M,Essentials of Exercise Science (P),3,8/28-12/15,M,6-8:30pm,$678
+14391,EXER109M,Applied Nutrition for Health Fitness Professionals,4,8/28-12/15,M,11am-3:10pm,"$1,014"
+14430,EXER109M,"Applied Nutrition for Health Fitness Professionals HYBRIDOnline plus in class Thursdays 8/31, 9/14, 9/28, 10/12, 10/26, 11/9, 11/30, 12/14",4,8/28-12/15,R,8am-12:10pm,$964
+14013,EXER111M,Introduction to Exercise Science Profession (P),3,8/28-10/21,WF,2-3:40pm11am-2:20pm,$678
+14014,EXER111M,Introduction to Exercise Science Profession (P),3,8/28-10/21,MT,8-9:40am11-2:20pm,$678
+14016,EXER112M,Health Risk Appraisal (C),2,10/23-12/15,WF,2-3:40pm11am-2:20pm,$452
+14017,EXER112M,Health Risk Appraisal (C),2,10/23-12/15,MT,8-9:40am11-2:20pm,$452
+14018,EXER220M,Performance Training (P),3,8/28-12/15,W,8-11:20am,$788
+14284,EXER230M,Kinesiology (P),4,8/28-12/15,T,8am-12:10pm,"$1,014"
+14397,FIN120M,Personal Financial Management,3,8/28-12/15,,Online,$678
+14020,FREN110M,French I,4,8/28-12/15,T,5-9:20pm,"$1,014"
+14222,FYE100M,First Year Cornerstone,1,8/28-10/21,T,8-9:40am,$226
+14223,FYE100M,First Year Cornerstone,1,8/28-10/21,T,8-9:40am,$226
+14225,FYE100M,"First Year Cornerstone HYBRIDOnline plus in class Tuesdays 8/29, 9/12, 9/26, 10/10",1,8/28-10/21,T,11am-12:20pm,$226
+14226,FYE100M,"First Year Cornerstone HYBRIDOnline plus in class Tuesdays 8/29, 9/12, 9/26, 10/10",1,8/28-10/21,T,11am-12:20pm,$226
+14227,FYE100M,"First Year Cornerstone HYBRIDOnline plus in class Tuesdays 8/29, 9/12, 9/26, 10/10",1,8/28-10/21,T,11am-12:20pm,$226
+14228,FYE100M,First Year Cornerstone,1,8/28-10/21,T,2-3:40pm,$226
+14229,FYE100M,First Year Cornerstone,1,8/28-10/21,T,2-3:40pm,$226
+14230,FYE100M,"First Year Cornerstone HYBRIDOnline plus in class Wednesdays 8/30, 9/13, 9/27, 10/18",1,8/28-10/21,W,8-9:20am,$226
+14231,FYE100M,"First Year Cornerstone HYBRIDOnline plus in class Wednesdays 8/30, 9/13, 9/27, 10/18",1,8/28-10/21,W,8-9:20am,$226
+14232,FYE100M,"First Year Cornerstone HYBRIDOnline plus in class Wednesdays 8/30, 9/13, 9/27, 10/18",1,8/28-10/21,W,8-9:20am,$226
+14233,FYE100M,First Year Cornerstone,1,8/28-10/21,W,11am-12:40pm,$226
+14234,FYE100M,First Year Cornerstone,1,8/28-10/21,W,11am-12:40pm,$226
+14236,FYE100M,"First Year Cornerstone HYBRIDOnline plus in class Wednesdays 8/30, 9/13, 9/27, 10/18",1,8/28-10/21,W,2-3:20pm,$226
+14237,FYE100M,"First Year Cornerstone HYBRIDOnline plus in class Wednesdays 8/30, 9/13, 9/27, 10/18",1,8/28-10/21,W,2-3:20pm,$226
+14238,FYE100M,"First Year Cornerstone HYBRIDOnline plus in class Wednesdays 8/30, 9/13, 9/27, 10/18",1,8/28-10/21,W,2-3:20pm,$226
+14239,FYE100M,First Year Cornerstone,1,8/28-10/21,R,2-3:40pm,$226
+14240,FYE100M,First Year Cornerstone,1,8/28-10/21,R,2-3:40pm,$226
+14242,FYE100M,"First Year Cornerstone HYBRIDOnline plus in class Wednesdays 8/30, 9/13, 9/27, 10/11",1,8/28-10/21,W,5-6:20pm,$226
+14224,FYE100M,"First Year Cornerstone HYBRIDOnline plus in class Wednesdays 8/30, 9/13, 9/27, 10/11",1,8/28-10/21,W,5-6:20pm,$226
+17079,FYE100M,"First Year Cornerstone HYBRIDOnline plus in class Wednesdays 8/30, 9/13, 9/27, 10/11",1,8/28-10/21,W,5-6:20pm,$226
+14243,FYE100M,"First Year Cornerstone HYBRIDOnline plus in class Thursdays 8/31, 9/14, 9/28, 10/12",1,8/28-10/21,R,6-7:20pm,$226
+14244,FYE100M,"First Year Cornerstone HYBRIDOnline plus in class Thursdays 8/31, 9/14, 9/28, 10/12",1,8/28-10/21,R,6-7:20pm,$226
+14245,FYE100M,"First Year Cornerstone HYBRIDOnline plus in class Thursdays 8/31, 9/14, 9/28, 10/12",1,8/28-10/21,R,6-7:20pm,$226
+14246,FYE100M,First Year Cornerstone,1,8/28-10/21,F,8-9:40am,$226
+17080,FYE100M,First Year Cornerstone,1,8/28-10/21,F,8-9:40am,$226
+14235,FYE100M,"First Year Cornerstone HYBRIDOnline plus in class Tuesdays 8/29, 9/12, 9/26, 10/10",1,8/28-10/21,T,6-7:20pm,$226
+14241,FYE100M,"First Year Cornerstone HYBRIDOnline plus in class Tuesdays 8/29, 9/12, 9/26, 10/10",1,8/28-10/21,T,6-7:20pm,$226
+17767,FYE100M,"First Year Cornerstone HYBRIDOnline plus in class Tuesdays 8/29, 9/12, 9/26, 10/10",1,8/28-10/21,T,6-7:20pm,$226
+17768,FYE100M,First Year Cornerstone,1,10/23-12/15,F,8-9:40am,$226
+17769,FYE100M,First Year Cornerstone,1,10/23-12/15,F,8-9:40am,$226
+17770,FYE100M,"First Year Cornerstone HYBRIDOnline plus in class Mondays 10/23, 11/6, 11/20, 12/4",1,10/23-12/15,M,7:40-9pm,$226
+17771,FYE100M,"First Year Cornerstone HYBRIDOnline plus in class Mondays 10/23, 11/6, 11/20, 12/4",1,10/23-12/15,M,7:40-9pm,$226
+14247,FYE100M,First Year Cornerstone,1,8/28-10/21,,Online,$226
+14248,FYE100M,First Year Cornerstone,1,8/28-10/21,,Online,$226
+14249,FYE100M,First Year Cornerstone,1,8/28-10/21,,Online,$226
+14250,FYE100M,First Year Cornerstone,1,8/28-10/21,,Online,$226
+17081,FYE100M,First Year Cornerstone,1,8/28-10/21,,Online,$226
+14251,FYE100M,First Year Cornerstone,1,10/23-12/15,,Online,$226
+14252,FYE100M,First Year Cornerstone,1,10/23-12/15,,Online,$226
+14253,FYE100M,First Year Cornerstone,1,10/23-12/15,,Online,$226
+14022,GDES110M,Page Layout and Design,3,8/28-12/15,W,5-9:10pm,$788
+14023,GDES110M,Page Layout and Design,3,8/28-12/15,M,12:30-4:40pm,$788
+14024,GDES114M,Graphic Design I,3,8/28-12/15,T,12:30-4:40pm,$788
+14025,GDES114M,Graphic Design I,3,8/28-12/15,M,5-9:10pm,$788
+14026,GDES115M,Digital Imaging,3,8/28-12/15,R,8am-12:10pm,$788
+14027,GDES115M,Digital Imaging,3,8/28-12/15,F,5-9:10pm,$788
+14184,GDES122M,Color Theory,3,8/28-12/15,W,12:30-4:40pm,$808
+14431,GDES150M,Digital Publishing Methods (P),3,8/28-12/15,T,8am-12:10pm,$788
+14028,GDES210M,History of Graphic Design,3,8/28-12/15,T,5-7:30pm,$678
+14029,GDES211M,Illustration I (P/C),3,8/28-12/15,R,5-9:10pm,$788
+14030,GDES213M,Graphic Design II (P),3,8/28-12/15,M,5-9:10pm,$788
+14031,GDES227M,Graphic Design Internship Seminar (P),1,8/28-12/15,M,4-4:50pm,$226
+17781,GDES230M,Animation for Web,3,8/28-12/15,W,5-9:10pm,$788
+14032,GEOG110M,World Geography,3,8/28-12/15,,Online,$678
+18031,GEOL110M,General Geology (P),4,8/28-12/15,R,5-9:10pm,"$1,014"
+14477,HIST120M,Western Civilization through 1500 (P),3,9/25-12/15,,Online,$678
+14448,HIST130M,Western Civilization - 1500 to the Present (P),3,8/28-12/15,R,2-4:30pm,$678
+14041,HIST202M,United States History through 1877 (P),3,8/28-12/15,M,8-10:30am,$678
+14449,HIST202M,United States History through 1877 (P),3,8/28-12/15,,Online,$678
+14045,HIST203M,"Topics in History: History of Stalingrad/Volgograd (P) HYBRIDOnline plus in class Tuesdays 8/29, 9/12, 9/26, 10/10, 10/24, 11/7, 11/21, 12/5, 12/12",3,8/28-12/15,T,11am-1:30pm,$678
+14042,HIST204M,United States History - 1877 to the Present (P),3,8/28-12/15,W,2-4:30pm,$678
+14043,HIST204M,United States History - 1877 to the Present (P),3,8/28-12/15,T,6-8:30pm,$678
+14044,HIST215M,World Religions (P),3,8/28-12/15,,Online,$678
+14033,HLIM100M,"Introduction to Health Information Management (P) HYBRIDOnline plus in class Thursdays 8/31, 9/14, 9/28, 10/12, 10/26, 11/9, 12/7",3,8/28-12/15,R,5-6:30pm,$678
+14039,HLIM115M,Legal Aspects of Health Information (P),3,8/28-12/15,,Online,$678
+14034,HLIM120M,"Computers in Healthcare (P) HYBRIDOnline plus in class Thursday 9/7, 9/21, 10/5, 10/19, 11/2, 11/16, 11/30",3,8/28-12/15,R,5-6:30pm,$788
+14035,HLIM200M,"Health Information Management Practicum I (P/C) HYBRIDOnline plus in class Mondays 8/28, 9/11, 9/25, 10/9, 10/23, 11/6, 11/20, 12/4",3,8/28-12/15,M,5-6:30pm,$898
+14036,HLIM205M,Resource and Data Management (P),3,8/28-12/15,,Online,$678
+14037,HLIM208M,Pharmacology for Health Professions (P),3,8/28-12/15,,Online,$678
+14038,HLIM216M,Reimbursement Methods (P),3,8/28-12/15,,Online,$678
+14398,HLTH299M,Health Science Capstone (P),3,8/28-12/15,,TBD,$678
+18479,HSV111M,Introduction to Human Services (P)Mondays plus Off Campus,3,8/28-12/15,M,11am-1:30pm,$678
+18480,HSV116M,Professional Seminar I (P),3,8/28-12/15,T,2-3:40pm,$788
+14046,HUMA106M,History of American Popular Music (P),3,8/28-12/15,T,8-10:30am,$678
+14047,HUMA126M,Introduction to Film (P),3,8/28-12/15,T,11am-1:30pm,$678
+14048,HVAC101M,"Introduction to HVAC Systems HYBRIDOnline plus in class Saturdays9/2, 9/16, 9/30, 10/14, 10/28, 11/11, 11/25, 12/9",3,8/28-12/15,S,9-11:30am,$678
+14049,HVAC101M,Introduction to HVAC SystemsTaken with Section 1 CRN 14050 or Section 2 CRN 14051,3,8/28-12/15,T,1:30-2:45pm,$678
+14050,HVAC101M,"Introduction to HVAC Systems Section 1Taken with Theory 1 CRN 14049Meets Tuesdays 8/29, 9/12, 9/26, 10/10, 10/24, 11/7, 11/21, 12/5",0,8/28-12/15,T,2:55-5:25pm,
+14051,HVAC101M,"Introduction to HVAC Systems Section 2Taken with Theory 1 CRN 14049Meets Tuesdays 9/5, 9/19, 10/3, 10/17, 10/31, 11/14, 11/28, 12/12",0,8/28-12/15,T,2:55-5:25pm,
+14052,HVAC109M,Related Electricity I Theory (C)Taken with Lab 1 or Lab 2,3,8/28-12/15,W F,9:30-10:45am,$678
+14053,HVAC109M,Related Electricity I Theory (C)Must be taken with Lab A or Lab B,3,8/28-12/15,M W,5-6:15pm,$678
+14054,HVAC110M,Related Electricity I Lab 1 (C),1,8/28-12/15,W,11am-1:30pm,$336
+14055,HVAC110M,Related Electricity I Lab 2 (C),1,8/28-12/15,R,9:30am-12pm,$336
+14056,HVAC110M,Related Electricity I Lab A (C),1,8/28-12/15,W,6:20-8:50pm,$336
+17930,HVAC110M,Related Electricity I Lab B (C),1,8/28-12/15,M,6:20-8:50pm,$336
+14057,HVAC111M,Fundamentals of Refrigeration I Theory,3,8/28-12/15,MF,3-4:15pm11am-12:15pm,$678
+14058,HVAC111M,Fundamentals of Refrigeration I Theory (C),3,8/28-12/15,R,5:30-8pm,$678
+14059,HVAC112M,Fundamentals of Refrigeration I Lab (C),1,8/28-12/15,W,2:30-5pm,$436
+14060,HVAC112M,Fundamentals of Refrigeration I Lab (C),1,8/28-12/15,F,2-4:30pm,$436
+14061,HVAC112M,Fundamentals of Refrigeration I Lab (C),1,8/28-12/15,T,5:30-8pm,$436
+14062,HVAC114M,Fundamentals of Heating I TH (C),3,8/28-12/15,W F,8-9:15am,$678
+14064,HVAC115M,Fundamentals of Heating I LAB (C),1,8/28-12/15,W,11am-1:30pm,$436
+14065,HVAC115M,Fundamentals of Heating I LAB (C),1,8/28-12/15,R,9:30am-12pm,$436
+14063,HVAC134M,Fundamentals of Gas Heating and Piping Installation (C),3,8/28-12/15,T,5:30-8pm,$678
+14066,HVAC135M,Fundamentals of Gas Heating and Piping Installation Lab (C),1,8/28-12/15,R,5:30-8pm,$436
+14067,HVAC211M,Commercial Refrigeration Theory (P/C),3,8/28-12/15,WF,2-3:15pm11am-12:15pm,$678
+14068,HVAC212M,Commercial Refrigeration Lab (P/C),2,8/28-12/15,T,8am-1pm,$772
+14069,HVAC212M,Commercial Refrigeration Lab (P/C),2,8/28-12/15,M,8am-1pm,$772
+14070,HVAC213M,Hydronic Systems Theory (P/C),3,8/28-12/15,T R,5:30-6:45pm,$678
+14071,HVAC214M,Hydronic Systems Lab (P/C),2,8/28-12/15,T R,6:50-9:20pm,$772
+14072,HVAC221M,Residential and Commercial A/C and Heat Pumps Theory (P/C),3,8/28-12/15,M,5:30-8pm,$678
+14073,HVAC222M,Residential and Commercial A/C and Heat Pumps Lab (P/C),2,8/28-12/15,W,5:30-10:30pm,$772
+14074,HVAC223M,Warm Air and Steam Systems (P/C),3,8/28-12/15,W F,9:30-10:45am,$678
+14075,HVAC224M,Warm Air and Steam Systems Lab (P/C),2,8/28-12/15,T,8am-1pm,$772
+14076,HVAC224M,Warm Air and Steam Systems Lab (P/C),2,8/28-12/15,M,8am-1pm,$772
+14077,HVAC243M,DDC and Building Automation Controls I Theory (P)Taken with Lab CRN 14078,4,8/28-12/15,M,5:30-8pm,"$1,014"
+14078,HVAC243M,DDC and Building Automation Controls I Lab (P)Taken with Theory CRN 14077,0,8/28-12/15,W,5:30-8pm,
+14079,INTD101M,Interior Design Technology Studio I (C),3,8/28-12/15,M,5:30-9:40pm,$788
+14080,INTD102M,Technical Drawing for Interiors I (C),3,8/28-12/15,R,5-9:10pm,$788
+14081,INTD103M,Visual Presentation Interior Design,2,8/28-12/15,T,6-9:20pm,$562
+14082,INTD201M,Interior Design Technology Studio III (P),3,8/28-12/15,W,5-9:10pm,$788
+14083,INTD205M,Interior Contract Documentation (P),3,8/28-12/15,M,5-9:10pm,$788
+14084,INTD212M,Lighting Design (P),3,8/28-12/15,R,5-7:30pm,$678
+14195,LBSC299M,Liberal Arts / Behavioral Science Capstone (P),3,8/28-12/15,R,2-4:30pm,$678
+14280,LENG299M,Liberal Arts / English Capstone (P),3,8/28-12/15,R,2-4:30pm,$678
+14194,LIBA299M,Liberal Arts Capstone (P),3,8/28-12/15,R,2-4:30pm,$678
+17148,LSCI299M,Life Science Capstone (P),3,8/28-12/15,,TBD,$678
+14196,LSSC299M,Liberal Arts / Social Science Capstone (P),3,8/28-12/15,R,2-4:30pm,$678
+14197,MATH090M,Foundations for College Mathematics (P),3,8/28-12/15,T R,8-9:15am,$678
+14198,MATH090M,Foundations for College Mathematics (P),3,8/28-12/15,M W,8-9:15am,$678
+14199,MATH090M,Foundations for College Mathematics (P),3,8/28-12/15,R,6-8:30pm,$678
+14200,MATH090M,Foundations for College Mathematics (P),3,8/28-12/15,S,9-11:30am,$678
+14201,MATH090M,Foundations for College Mathematics (P),3,8/28-12/15,M,2-4:30pm,$678
+14202,MATH090M,Foundations for College Mathematics (P),3,8/28-12/15,W,2-4:30pm,$678
+14203,MATH090M,Foundations for College Mathematics (P),3,8/28-12/15,W,5-7:30pm,$678
+14204,MATH090M,Foundations for College Mathematics (P),3,8/28-12/15,M W,11am-12:15pm,$678
+14205,MATH090M,Foundations for College Mathematics (P),3,8/28-12/15,T R,11am-12:15pm,$678
+14206,MATH090M,Foundations for College Mathematics (P),3,8/28-12/15,F,8-10:30am,$678
+14207,MATH090M,Foundations for College Mathematics (P),3,8/28-12/15,T R,2-3:15pm,$678
+14273,MATH090M,Foundations for College Mathematics (P),3,8/28-12/15,F,5-7:30pm,$678
+14085,MATH111M,Numerical Geometry (P),3,8/28-12/15,R,2-4:30pm,$678
+14086,MATH111M,Numerical Geometry (P),3,8/28-12/15,T,6-8:30pm,$678
+14271,MATH132M,Business Mathematics (P),3,8/28-12/15,M W,8-9:15am,$678
+14087,MATH135M,Numerical Algebra and Trigonometry (P),3,8/28-12/15,R,6-8:30pm,$678
+14088,MATH135M,Numerical Algebra and Trigonometry (P),3,8/28-12/15,F,8-10:30am,$678
+14399,MATH135M,Numerical Algebra and Trigonometry (P),3,8/28-12/15,F,2-4:30pm,$678
+17935,MATH145M,Topics in Applied College Mathematics (P),4,8/28-10/21,,Online,$904
+14209,MATH145M,Topics in Applied College Mathematics (P),4,8/28-12/15,M W,11am-12:40pm,$904
+14210,MATH145M,Topics in Applied College Mathematics (P),4,8/28-12/15,T R,11am-12:40pm,$904
+14211,MATH145M,Topics in Applied College Mathematics (P),4,8/28-12/15,T R,8-9:40am,$904
+14212,MATH145M,Topics in Applied College Mathematics (P),4,8/28-12/15,T,2-5:20pm,$904
+14213,MATH145M,Topics in Applied College Mathematics (P),4,8/28-12/15,W,2-5:20pm,$904
+14214,MATH145M,Topics in Applied College Mathematics (P),4,8/28-12/15,M W,8-9:40am,$904
+14215,MATH145M,Topics in Applied College Mathematics (P),4,8/28-12/15,M,5-8:20pm,$904
+14216,MATH145M,Topics in Applied College Mathematics (P),4,8/28-12/15,R,6-9:20pm,$904
+18033,MATH145M,Topics in Applied College Mathematics (P),4,9/25-12/15,W,5-9:30pm,$904
+14208,MATH145M,Topics in Applied College Mathematics (P),4,8/28-12/15,,Online,$904
+14400,MATH145M,Topics in Applied College Mathematics (P),4,8/28-12/15,,Online,$904
+14217,MATH145M,Topics in Applied College Mathematics (P),4,10/23-12/15,,Online,$904
+14089,MATH151M,Intermediate Algebra (P),4,8/28-12/15,W,6-9:20pm,$904
+14444,MATH151M,Intermediate Algebra (P),4,8/28-12/15,T R,2-3:40pm,$904
+14090,MATH155M,College Algebra with Trigonometry (P),4,8/28-12/15,M,5-8:20pm,$904
+14091,MATH155M,College Algebra with Trigonometry (P),4,8/28-12/15,T R,8-9:40am,$904
+14092,MATH155M,College Algebra with Trigonometry (P),4,8/28-12/15,M W,11am-12:40pm,$904
+14093,MATH170M,Discrete Mathematics (P),4,8/28-12/15,T R,8-9:40am,$904
+14094,MATH171M,Pre-Calculus (P),4,8/28-12/15,M,6-9:20pm,$904
+14095,MATH200M,Finite Mathematics (P),4,8/28-12/15,T,5:30-8:50pm,$904
+14096,MATH202M,Probability and Statistics (P),4,8/28-12/15,,Online,$904
+17936,MATH202M,Probability and Statistics (P),4,8/28-12/15,,Online,$904
+17937,MATH202M,Probability and Statistics (P),4,8/28-12/15,W,5-8:20pm,$904
+14097,MATH202M,Probability and Statistics (P),4,8/28-12/15,M W,8-9:40am,$904
+14098,MATH202M,Probability and Statistics (P),4,8/28-12/15,T R,8-9:40am,$904
+14099,MATH202M,Probability and Statistics (P),4,8/28-12/15,T,6-9:20pm,$904
+14100,MATH202M,Probability and Statistics (P),4,10/23-12/15,,Online,$904
+14101,MATH202M,Probability and Statistics (P),4,8/28-12/15,M W,11am-12:40pm,$904
+14102,MATH204M,Calculus I (P),4,8/28-12/15,M W,8-9:40am,$904
+17938,MATH212M,Probability and Statistics II (P) HYBRIDOnline plus in class Thursdays,4,8/28-12/15,R,2-4pm,$904
+14103,MATH214M,Calculus II (P),4,8/28-12/15,W,5-8:20pm,$904
+17939,MATH215M,Mathematical Proofs (P),4,8/28-12/15,M W,11am-12:40pm,$904
+14272,MATH218M,Introduction to Linear Algebra (P),4,8/28-12/15,F,8-11:20am,$904
+14104,MATH222M,Multidimensional Calculus (P),4,8/28-12/15,M W,2-4:05pm,"$1,014"
+14401,MCOD110M,CPT Coding (P),4,8/28-12/15,W,5:30-8:50pm,$904
+18376,MCOD215M,Advanced Coding (P),3,8/28-12/15,S,9-11:30am,$678
+14270,MEDA110M,Introduction to Medical Assisting (P),3,8/28-12/15,M,11am-1:30pm,$678
+14105,MEDA125M,Clinical Laboratory Procedures I (P),4,8/28-12/15,T,11am-4pm,"$1,014"
+14432,MEDA128M,Administrative Medical Assisting (P),4,8/28-12/15,M,8am-12:10pm,"$1,014"
+14106,MEDA218M,Clinical Laboratory Procedures II Theory (P)Taken with CRN 14433 or CRN 14434,4,8/28-12/15,W,11am-1:30pm,"$1,014"
+14433,MEDA218M,Clinical Laboratory Procedures II Lab 1 (P)Taken with Theory CRN 14106,0,8/28-12/15,W,2-4:30pm,
+14434,MEDA218M,Clinical Laboratory Procedures II Lab 2 (P)Taken with Theory CRN 14106,0,8/28-12/15,R,8-10:30am,
+14107,MKTG125M,Principles of Marketing: A Global Perspective (P),3,8/28-12/15,,Online,$678
+14108,MKTG125M,Principles of Marketing: A Global Perspective (P),3,8/28-12/15,M W,9:30-10:45am,$678
+14109,MKTG125M,Principles of Marketing: A Global Perspective (P),3,8/28-12/15,M,6:30-9pm,$678
+14111,MKTG210M,Advertising (P),3,8/28-12/15,W,5-7:30pm,$678
+14112,MKTG210M,Advertising (P),3,8/28-12/15,M W,2-3:15pm,$678
+14113,MKTG282M,Marketing Research (P),3,8/28-12/15,W,7:40-10:10pm,$678
+14114,NURS111M,Nursing I Theory (C),10,8/28-12/15,MR,8-11:15am8-10:30am,"$3,220"
+14122,NURS211M,Nursing III Theory (P/C),9,8/28-12/15,MR,11:30am-1:40pm10:45am-12:25pm,"$2,885"
+14124,PHIL240M,Ethics (P),3,8/28-12/15,,Online,$678
+14125,PHIL240M,Ethics (P),3,8/28-12/15,W,11am-1:30pm,$678
+14126,PHIL240M,Ethics (P),3,8/28-12/15,M,2-4:30pm,$678
+14127,PHIL240M,Ethics (P),3,8/28-10/21,,Online,$678
+14128,PHIL240M,Ethics (P),3,10/23-12/15,,Online,$678
+14136,PHIL240M,Ethics (P),3,8/28-12/15,R,6-8:30pm,$678
+14129,PHYS100M,Introductory Physics (P),3,8/28-12/15,M,5-9:10pm,$788
+17940,PHYS100M,Introductory Physics (P) HYBRIDOnline plus inclass Thursdays,3,8/28-12/15,R,10am-12:30pm,$788
+14460,PHYS105M,Astronomy I (P),4,8/28-12/15,M W,11am-1:5pm,"$1,014"
+14130,PHYS110M,Physical Science I (P),4,8/28-12/15,F,5-9:10pm,"$1,014"
+14131,PHYS135M,College Physics I (P),4,8/28-12/15,T,5-10pm,"$1,014"
+17149,PHYS136M,College Physics II (P),4,8/28-12/15,W,5-10pm,"$1,014"
+14218,PHYS210M,University Physics (P),4,8/28-12/15,M W,2-4:30pm,"$1,014"
+14132,POLS110M,American Government (P),3,8/28-12/15,,Online,$678
+14133,POLS110M,American Government (P),3,8/28-12/15,M,5-7:30pm,$678
+14134,POLS110M,American Government (P),3,10/23-12/15,,Online,$678
+14135,POLS210M,Introduction to Political Science (P),3,8/28-12/15,R,6-8:30pm,$678
+14137,PSYC110M,Introduction to Psychology (P),3,8/28-12/15,F,8-10:30am,$678
+14138,PSYC110M,Introduction to Psychology (P),3,8/28-12/15,T,2-4:30pm,$678
+14139,PSYC110M,Introduction to Psychology (P),3,8/28-12/15,M,11am-1:30pm,$678
+14140,PSYC110M,Introduction to Psychology (P),3,9/25-12/15,W F,2-3:45pm,$678
+14141,PSYC110M,Introduction to Psychology (P),3,8/28-12/15,F,2-4:30pm,$678
+14142,PSYC110M,Introduction to Psychology (P),3,8/28-12/15,W,11am-1:30pm,$678
+14143,PSYC110M,Introduction to Psychology (P),3,8/28-12/15,W,5-7:30pm,$678
+14144,PSYC110M,Introduction to Psychology (P),3,8/28-12/15,R,6-8:30pm,$678
+14145,PSYC110M,Introduction to Psychology (P),3,8/28-12/15,,Online,$678
+14288,PSYC110M,Introduction to Psychology (P),3,10/23-12/15,,Online,$678
+14269,PSYC205M,Topics in Psychology: (P) Death and Dying,3,8/28-12/15,W,5-7:30pm,$678
+14146,PSYC210M,Human Growth and Development (P),3,8/28-12/15,,Online,$678
+14147,PSYC210M,Human Growth and Development (P),3,8/28-12/15,T,8-10:30am,$678
+14148,PSYC210M,Human Growth and Development (P),3,8/28-12/15,M,5-7:30pm,$678
+14149,PSYC210M,Human Growth and Development (P),3,10/23-12/15,,Online,$678
+14150,PSYC215M,Abnormal Psychology (P),3,8/28-12/15,M,2-4:30pm,$678
+14151,PSYC217M,Chemical Dependency (P),3,8/28-12/15,W,2-4:30pm,$678
+14152,PSYC225M,Social Psychology (P),3,8/28-12/15,R,6-8:30pm,$678
+14153,PSYC234M,Child and Adolescent Development (P),3,8/28-12/15,M,11am-1:30pm,$678
+17777,ROBO210M,Robotic Processes (P),3,8/28-12/15,F,8am-12:10pm,$788
+14154,ROBO210M,Robotic Processes (P),3,8/28-12/15,M,6-10:10pm,$788
+14455,ROBO211M,Robotic Design (P),3,8/28-12/15,T,6-10:10pm,$788
+14155,SOCI109M,Contemporary Social Problems (P),3,8/28-12/15,T,2-4:30pm,$678
+14156,SOCI109M,Contemporary Social Problems (P),3,8/28-12/15,,Online,$678
+14157,SOCI110M,Introduction to Sociology (P),3,8/28-12/15,,Online,$678
+14158,SOCI110M,Introduction to Sociology (P),3,8/28-12/15,R,8-10:30am,$678
+17802,SOCI110M,Introduction to Sociology (P),3,9/25-12/15,W F,8-9:45am,$678
+14159,SOCI110M,Introduction to Sociology (P),3,10/23-12/15,M W,2-4:30pm,$678
+14160,SOCI110M,Introduction to Sociology (P),3,8/28-12/15,T,6-8:30pm,$678
+14289,SOCI110M,Introduction to Sociology (P),3,10/23-12/15,,Online,$678
+14161,SPAN110M,Spanish I,4,8/28-12/15,R,5-9:10pm,"$1,014"
+14162,SPAN110M,Spanish ISynchronous Lab time M or W 5-6:30pm online,4,8/28-12/15,,Online,"$1,014"
+13951,TCHE100M,Child and Adolescent Development,3,8/28-12/15,T,11am-1:30pm,$678
+13952,TCHE101M,"Introduction to Exceptionalities (P) HYBRIDOnline plus in class Thursdays 8/31, 9/14, 9/28, 10/12, 10/26, 11/9, 11/30, 12/14",3,8/28-12/15,R,6:30-9pm,$678
+13953,TCHE104M,Foundations of Education (P),3,8/28-12/15,M,2-4:30pm,$678
+13954,TCHE215M,Classroom Management/Behavioral Guidance Strategies (P),3,8/28-12/15,M,6-8:30pm,$678
+14435,TCHE225M,Curriculum Planning and Implementation (P),3,8/28-12/15,T,6-8:30pm,$678
+14163,WELD111M,Gas and Arc Welding Lab A,4,8/28-12/15,M,8am-5pm,"$1,444"
+14164,WELD111M,Gas and Arc Welding Lab B,4,8/28-12/15,M,8am-5pm,"$1,444"
+14165,WELD111M,Gas and Arc Welding Lab C,4,8/28-12/15,T,8am-5pm,"$1,444"
+14166,WELD111M,Gas and Arc Welding Lab D,4,8/28-12/15,T,8am-5pm,"$1,444"
+14167,WELD112M,Gas and Arc Welding Theory CD,3,8/28-12/15,R,9-11:30am,$678
+14168,WELD112M,Gas and Arc Welding Theory AB,3,8/28-12/15,F,8-10:30am,$678
+14169,WELD113M,Technical Blueprint Reading,1,8/28-12/15,W,8-10:30am,$336
+14170,WELD113M,Technical Blueprint Reading,1,8/28-12/15,W,11am-1:30pm,$336
+14171,WELD113M,Technical Blueprint Reading,1,8/28-12/15,W,2:30-5pm,$336
+14478,WELD113M,Technical Blueprint Reading,1,8/28-12/15,W,6-8:30pm,$336
+14172,WELD180M,Basic Arc and Gas Welding,2,8/28-12/15,T,6-9:30pm,$662
+14173,WELD180M,Basic Arc and Gas Welding,2,8/28-10/21,S,8am-3:20pm,$662
+17794,WELD181M,Intermediate Arc and Gas Welding (P),2,8/28-12/15,R,6-9:30pm,$662
+14174,WELD181M,Intermediate Arc and Gas Welding (P),2,10/23-12/15,S,8am-3:20pm,$662
+14175,WELD182M,Welder Qualification and Testing (P),2,8/28-12/15,W,6-9:30pm,$662
+17793,WELD184M,Gas Tungsten Arc Welding (TIG) (P),2,8/28-12/15,F,6:30-10pm,$662
+14176,WELD185M,Gas Metal Arc Welding (MIG) (P),2,8/28-12/15,M,6-9:30pm,$662
+14177,WELD211M,Structural Code Welding Lab A (P),4,8/28-12/15,W,8am-5pm,"$1,444"
+14287,WELD211M,Structural Code Welding Lab B (P),4,8/28-12/15,W,8am-5pm,"$1,444"
+14178,WELD211M,Structural Code Welding Lab C (P),4,8/28-12/15,W,8am-5pm,"$1,444"
+14179,WELD212M,Code Welding Theory (P),3,8/28-12/15,R,2-5:30pm,$678
+14180,WELD213M,"Metallurgy Theory (P)Taken with Lab 1, 2, or 3",3,8/28-12/15,T,8-9:40am,$888
+14181,WELD213M,Metallurgy Lab 1 (P)Taken with Theory CRN 14180,0,8/28-12/15,T,10-11:40am,
+14182,WELD213M,Metallurgy Lab 2 (P)Taken with Theory CRN 14180,0,8/28-12/15,T,12:30-2:10pm,
+14183,WELD213M,Metallurgy Lab 3 (P)Taken with Theory CRN 14180,0,8/28-12/15,T,2:30-4:10pm,
