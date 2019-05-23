@@ -1,0 +1,2 @@
+df -h
+sudo du -Phd 1 /var | sort -hr

@@ -1,0 +1,29 @@
+mysqldbcopy \
+--exclude=css_networking_device_prop_log \
+--exclude=css_networking_device_prop_history \
+--exclude=css_networking_device_prop_history_insert_trigger \
+--source=root:{{ mysql_password }}@127.0.0.1:1111 \
+--destination=root:{{ mysql_password }}@127.0.0.1:1111 \
+shofar:shofar_copied
+
+# Blob fields cannot be copied
+# https://bugs.mysql.com/bug.php?id=78084
+
+# the --force flag will drop each object in DESTINATION if already exists.
+# --threads 30 \  # doesn't seem to work
+
+
+
+
+
+# Import just definitions of objects, not data
+mysqldbimport \
+--import=definitions \
+--bulk-insert \
+--format=sql \
+--server=root:{{ mysql_password }}@127.0.0.1:3306 \
+--skip-rpl \
+file.sql
+# change import is in [definitions|data|both]
+
+

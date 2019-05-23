@@ -1,0 +1,54 @@
+mysqldbcompare \
+--difftype=sql \
+--disable-binary-logging \
+--skip-row-count \
+--skip-checksum-table \
+--skip-data-check \
+--run-all-tests \
+--server1=root:{{ mysql_password }}@127.0.0.1:1111 \
+--server2=root:{{ mysql_password }}@127.0.0.1:1111 \
+--changes-for=server1 \
+shofar:master
+
+# Sometimes the skip-checksum-table flag is unrecognized. I think that means the given version does not compare checksums in the first place.
+mysqldbcompare \
+--difftype=sql \
+--disable-binary-logging \
+--skip-row-count \
+--skip-data-check \
+--run-all-tests \
+--server1=root:{{ mysql_password }}@127.0.0.1:3306 \
+--server2=root:{{ mysql_password }}@127.0.0.1:3306 \
+--changes-for=server1 shofar:master
+
+# Sometimes gives import errors if it cannot connect to servers
+
+
+
+# Can be used to target specific objects:
+mysqldiff \
+--difftype=sql \
+--server1=root:{{ mysql_password }}@127.0.0.1:3306 \
+--server2=root:{{ mysql_password }}@127.0.0.1:3306 \
+--changes-for=server1 \
+shofar:master
+
+
+#
+# INSTALL MYSQL UTILITIES
+#
+cd /tmp
+git clone https://github.com/mysql/mysql-utilities
+cd /tmp/mysql-utilities
+sudo python ./setup.py install
+
+# The internet says this works too, but that's how WWI got started. According to the internet.
+cd /tmp
+wget https://dev.mysql.com/get/Downloads/MySQLGUITools/mysql-utilities-1.6.5.tar.gz
+tar xaf mysql-utilities-1.6.5.tar.gz
+cd /tmp/mysql-utilities-1.6.5
+python ./setup.py build
+sudo python ./setup.py install
+cd ..
+
+
