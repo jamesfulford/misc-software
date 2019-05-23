@@ -1,0 +1,13 @@
+- name: Gather info
+  hosts: all
+  vars:
+      csv_file: /tmp/info.csv
+  tasks:
+    - local_action: file state=absent path={{csv_file}}
+      run_once: yes
+    # Maybe set some facts in here
+
+    #
+    - name: Sent data to file
+      shell: "echo {{inventory_hostname|quote}},{{ansible_cmdline['BOOT_IMAGE']}} >> {{csv_file|quote}}"
+      delegate_to: localhost

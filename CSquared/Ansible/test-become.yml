@@ -1,0 +1,6 @@
+- name: Testing Become Passwords
+  hosts: sp
+
+  tasks:
+    - command: pwd
+      become: true

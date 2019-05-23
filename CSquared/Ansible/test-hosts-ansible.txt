@@ -1,0 +1,2 @@
+[sp]
+shofar ansible_host=192.168.8.25 ansible_port=22 ansible_user=shofar
