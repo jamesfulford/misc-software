@@ -1,0 +1,20 @@
+- name: Restore SitePortal
+# Imports database and unzips cswapi and swf from directory in /tmp
+# Useful for setting up a clone or handling rollbacks
+  hosts: sp
+  vars:
+    # Override these default values with --extra-vars arg:
+    # --extra-vars="{\"target_environment\": \"delaware_county_clone\", \"target_environment_swf\": \"delaware-county-clone\", \"backup_name\": \"delaware-county\"}"
+    target_environment: "shofar"
+    target_environment_swf: "{{ target_environment }}"  # override this optionally
+    backup_name: "backup_{{ target_environment }}"  # used in setting backup_dir
+    backup_dir: "/home/{{ ansible_user }}/{{ backup_name }}"  # overrideable to allow saving elsewhere
+    source_environment: "{{ target_environment }}"  # used to find backup dir
+
+  vars_files:
+    - vault.yml
+
+  tasks:
+    - name: Restore SitePortal from Backup
+      include_tasks: tasks/restore.yml
+

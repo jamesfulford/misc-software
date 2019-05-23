@@ -1,0 +1,12 @@
+- name: Checkout SitePortal Code
+  hosts: sp
+  vars:
+    target_version: "7.24.0.3"
+  vars_files:
+    - vault.yml
+
+
+  tasks:
+
+  - name: Checkout code for {{ target_environment }}
+    include_tasks: tasks/checkout.yml

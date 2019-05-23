@@ -1,0 +1,53 @@
+# - name: Backup SitePortal
+# # Stores database dump, cswapi, and swf in a directory in /tmp
+#   hosts: sp
+#   vars:
+#     # Override these default values with --extra-vars arg:
+#     # --extra-vars="{\"source_environment\": \"delaware_county\", \"source_environment_swf\": \"delaware-county\"}"
+#     source_environment: "shofar"
+#     source_environment_swf: "{{ source_environment }}"  # override this optionally
+#     backup_name: "backup_{{ target_environment }}"  # used in setting backup_dir
+#     backup_dir: "/home/{{ ansible_user }}/{{ backup_name }}"  # overrideable to allow saving elsewhere
+
+#   vars_files:
+#     - vault.yml
+
+#   tasks:
+- name: "Ensure {{ backup_dir }}"
+  file:
+    path: "{{ backup_dir }}"
+    state: directory
+
+# CSWAPI
+- name: "Zip /var/www/cswapi_{{ source_environment }}"
+  become: yes
+  archive:
+    path: "/var/www/cswapi_{{ source_environment }}"
+    dest: "{{ backup_dir }}/back_end.tar.gz"
+    format: tar
+
+# SWF
+- name: "Zip /var/www/{{ source_environment_swf }}"
+  become: yes
+  archive:
+    path: "/var/www/{{ source_environment_swf }}"
+    dest: "{{ backup_dir }}/front_end.tar.gz"
+    format: tar
+
+# DATABASE
+- name: "Dumping cswapi_{{ source_environment }}"
+  shell: "mysqldump -u{{ mysql_user }} -p{{ mysql_password }} --routines --events cswapi_{{ source_environment }} --ignore-table=cswapi_{{ source_environment }}.css_networking_device_prop_log --ignore-table=cswapi_{{ source_environment }}.css_networking_device_prop_history > \"{{ backup_dir }}/database.sql\""
+- name: "Zip {{ backup_dir }}/database.sql"
+  archive:
+    format: gz
+    remove: yes
+    path: "{{ backup_dir }}/database.sql"
+    dest: "{{ backup_dir }}/database.sql.gz"
+
+# Would be nice, but could use a lot of disk space
+# - name: "Zip /tmp/backup_{{ backup_name }}"
+#   become: yes
+#   archive:
+#     path: "/tmp/backup_{{ backup_name }}"
+#     dest: "/tmp/backup_{{ backup_name }}.tar.gz"
+#     format: tar

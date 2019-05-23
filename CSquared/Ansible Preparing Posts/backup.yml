@@ -1,0 +1,17 @@
+- name: Backup SitePortal
+# Stores database dump, cswapi, and swf in a directory in /tmp
+  hosts: sp
+  vars:
+    # Override these default values with --extra-vars arg:
+    # --extra-vars="{\"source_environment\": \"delaware_county\", \"source_environment_swf\": \"delaware-county\"}"
+    source_environment: "shofar"
+    source_environment_swf: "{{ source_environment }}"  # override this optionally
+    backup_name: "backup_{{ target_environment }}"  # used in setting backup_dir
+    backup_dir: "/home/{{ ansible_user }}/{{ backup_name }}"  # overrideable to allow saving elsewhere
+
+  vars_files:
+    - vault.yml
+
+  tasks:
+    - name: Backup SitePortal
+      include_tasks: tasks/backup.yml

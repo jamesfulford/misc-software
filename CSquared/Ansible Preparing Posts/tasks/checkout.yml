@@ -1,0 +1,40 @@
+- name: Remove prior preparation checkouts
+  become: yes
+  file:
+    path: "{{ item }}"
+    state: absent
+  with_items:
+    - "/var/www/cswapi_{{ target_environment }}_update"
+    - "/var/www/{{ target_environment }}_update"
+
+- name: "Checkout {{ target_version }} CSWAPI from {{'release-candidates' if 'rc' in target_version.lower() else 'tags'}}"
+  become: yes
+  subversion:
+    repo: "http://23.25.198.226/siteportal/{{'release-candidates' if 'rc' in target_version.lower() else 'tags'}}/cswapi-{{ target_version.upper() }}-{{'ENC' if 'rc' in target_version.lower() else 'RELEASE-ENCODED'}}"
+    dest: "/var/www/cswapi_{{ target_environment }}_update"
+    username: '{{ svnUN }}'
+    password: '{{ svnPW }}'
+
+- name: "Checkout {{ target_version }} SWF from {{'release-candidates' if 'rc' in target_version.lower() else 'tags'}}"
+  become: yes
+  subversion:
+    repo: "http://23.25.198.226/siteportal/{{'release-candidates' if 'rc' in target_version.lower() else 'tags'}}/siteportal-{{ target_version.upper() }}{{ '-RELEASE' if 'rc' not in target_version.lower() else '' }}/bin-release"
+    dest: "/var/www/{{ target_environment }}_update"
+    username: '{{ svnUN }}'
+    password: '{{ svnPW }}'
+
+- name: Remove standard licenses
+  become: yes
+  file:
+    path: "/var/www/cswapi_{{ target_environment }}_update/licenses"
+    state: absent
+
+- name: Copy licenses to new checkout
+  become: yes
+  command: "cp -ar \"/var/www/cswapi_{{ source_environment }}/licenses\" \"/var/www/cswapi_{{ target_environment }}_update\""
+  # copy module does not support copying remote directories.
+
+- name: "Set permissions on {{target_environment}}_update"
+  include_tasks: permissions.yml
+  vars:
+    environment_name: "{{ target_environment }}_update"

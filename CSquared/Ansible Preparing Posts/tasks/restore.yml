@@ -1,0 +1,83 @@
+# - name: Restore SitePortal
+# # Imports database and unzips cswapi and swf from directory in /tmp
+# # Useful for setting up a clone or handling rollbacks
+#   hosts: sp
+#   vars:
+#     # Override these default values with --extra-vars arg:
+#     # --extra-vars="{\"target_environment\": \"delaware_county_clone\", \"target_environment_swf\": \"delaware-county-clone\", \"backup_name\": \"delaware-county\"}"
+#     target_environment: "shofar"
+#     target_environment_swf: "{{ target_environment }}"  # override this optionally
+#     backup_name: "backup_{{ target_environment }}"  # used in setting backup_dir
+#     backup_dir: "/home/{{ ansible_user }}/{{ backup_name }}"  # overrideable to allow saving elsewhere
+#     source_environment: "{{ target_environment }}"  # used to find backup dir
+
+#   vars_files:
+#     - vault.yml
+
+#   tasks:
+  # CHECKS AND VALIDATION
+  # Codebases
+- name: Check for codebases
+  stat:
+    path: "{{ item }}"
+  register: code
+  failed_when: not code.stat.exists
+  with_items:
+    - "{{ backup_dir }}/front_end.tar.gz"
+    - "{{ backup_dir }}/back_end.tar.gz"
+  # Database dumps
+- name: Check for unzipped database dump
+  stat:
+    path: "{{ backup_dir }}/database.sql"
+  register: database_unzipped
+- name: Check for zipped database dump
+  stat:
+    path: "{{ backup_dir }}/database.sql.gz"
+  register: database_zipped
+  failed_when: "not database_zipped.stat.exists and not database_unzipped.stat.exists"
+
+  # DATABASE
+  # prefer unzipped version if both exist
+- name: "Unzip {{ backup_dir }}/database.sql.gz"
+  when: not database_unzipped.stat.exists and database_zipped.stat.exists
+  command: "gunzip \"{{ backup_dir }}/database.sql.gz\""
+
+  # CSWAPI
+- name: "Unzip {{ backup_dir }}/back_end.tar.gz"
+  become: true
+  unarchive:
+    remote_src: true
+    src: "{{ backup_dir }}/back_end.tar.gz"
+    dest: "{{ backup_dir }}"
+- name: "Remove prior /var/www/cswapi_{{ target_environment }}"
+  become: true
+  file:
+    path: "/var/www/cswapi_{{ target_environment }}"
+    state: absent
+- name: "Move to /var/www/cswapi_{{ target_environment }}"
+  become: true
+  command: "mv \"{{ backup_dir }}/cswapi_{{ source_environment }}\" /var/www/cswapi_{{ target_environment }}"
+
+# SWF
+- name: "Unzip {{ backup_dir }}/front_end.tar.gz"
+  become: true
+  unarchive:
+    remote_src: true
+    src: "{{ backup_dir }}/front_end.tar.gz"
+    dest: "{{ backup_dir }}"
+- name: "Remove prior /var/www/{{ target_environment_swf }}"
+  become: true
+  file:
+    path: "/var/www/{{ target_environment_swf }}"
+    state: absent
+- name: "Move to /var/www/cswapi_{{ target_environment }}"
+  become: true
+  command: "mv \"{{ backup_dir }}/{{ source_environment }}\" /var/www/{{ target_environment_swf }}"
+
+# DATABASE
+- name: "Dropping cswapi_{{ target_environment }}"
+  shell: "mysql -uroot -pPASSWORD -e \"DROP DATABASE IF EXISTS cswapi_{{ target_environment }};\""
+- name: "Creating cswapi_{{ target_environment }}"
+  shell: "mysql -uroot -pPASSWORD -e \"CREATE DATABASE cswapi_{{ target_environment }};\""
+- name: "Importing cswapi_{{ target_environment }}"
+  shell: "mysql -uroot -pPASSWORD cswapi_{{ target_environment }} < \"{{ backup_dir }}/database.sql\""

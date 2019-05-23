@@ -1,0 +1,41 @@
+# - name: Set permissions for given environment
+#   hosts: sp
+
+#   tasks:
+
+- name: Set owner, group
+  become: yes
+  file:
+    path: "{{ item }}"
+    state: directory
+    recurse: yes
+    owner: root
+    group: "www-data"
+  with_items:
+    - "/var/www/cswapi_{{ environment_name }}"
+    - "/var/www/{{ environment_name }}"
+
+- name: Set permissions for root of directory
+  become: yes
+  file:
+    path: "{{ item }}"
+    state: directory
+    mode: 02775
+  with_items:
+    - "/var/www/cswapi_{{ environment_name }}"
+    - "/var/www/{{ environment_name }}"
+
+- name: Set directory permissions for directories recursively
+  become: yes
+  command: "find {{ item }} -type d -exec chmod 2775 {} +"
+  with_items:
+    - "/var/www/cswapi_{{ environment_name }}"
+    - "/var/www/{{ environment_name }}"
+
+- name: Set file permissions for files recursively
+  become: yes
+  command: "find {{ item }} -type f -exec chmod 0664 {} +"
+  with_items:
+    - "/var/www/cswapi_{{ environment_name }}"
+    - "/var/www/{{ environment_name }}"
+

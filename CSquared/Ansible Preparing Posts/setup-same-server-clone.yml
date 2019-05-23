@@ -1,0 +1,33 @@
+- name: Clone SitePortal on the same server
+  hosts: sp
+  vars:
+    # Override these default values with --extra-vars arg:
+    # --extra-vars="{\"source_environment\": \"delaware_county\", \"source_environment_swf\": \"delaware-county\"}"
+    source_environment: "shofar"
+    source_environment_swf: "{{ source_environment }}"  # override this optionally
+
+    target_environment: "{{ source_environment }}_clone"
+    target_environment_swf: "{{ source_environment_swf }}_clone"
+
+    target_version: "7.24.0.3"
+
+  vars_files:
+    - vault.yml
+
+  tasks:
+    - name: Backup {{ source_environment }}
+      include_tasks: tasks/backup.yml
+      vars:
+        backup_dir: "/tmp/transfer_{{ source_environment }}"
+
+    - name: Set up {{ target_environment }}
+      include_tasks: tasks/restore.yml
+      vars:
+        backup_dir: "/tmp/transfer_{{ source_environment }}"
+
+      # In the future, use unarchive module, remote_src=no
+    - name: Checkout code for {{ target_environment }}
+      include_tasks: tasks/checkout.yml
+
+    - name: Do clone-specific preparation tasks {{ target_environment }}
+      include_tasks: tasks/clone-only/preparation.yml
