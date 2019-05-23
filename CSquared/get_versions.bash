@@ -1,0 +1,1 @@
+ansible sp -m shell -a "svn info /var/www/cswapi_{{ inventory_hostname }} | grep Relative" -i hosts --ask-vault-pass | python -c "import re, sys, json; print json.dumps(dict(re.compile(r\"^(.*?) \| SUCCESS \| rc=0 >>\nRelative URL: \^/tags/cswapi-(.*?)-(?:RELEASE-ENCODED|ENC)$\", re.MULTILINE).findall(sys.stdin.read())), indent=4, sort_keys=True)"
