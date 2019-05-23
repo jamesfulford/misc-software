@@ -1,0 +1,24 @@
+sudo cat /var/log/syslog | grep -i {{ target_environment }}/ | grep -i fatal
+
+sudo cat /var/log/syslog | grep -i {{ target_environment }}/ | grep -i error | grep -iv "/cron/build_queued_device_error_check.php"
+
+sudo cat /var/log/apache2/error.log | grep -i {{ target_environment }}/ | grep -i fatal
+
+sudo cat /var/log/apache2/error.log | grep -i {{ target_environment }}/ | grep -i error
+
+
+svn export --force http://23.25.198.226/documentation/release/siteportal/posting-process/Tools/logs/parse_log.py /tmp/parse_log.py
+
+sudo python /tmp/parse_log.py /var/log/syslog /var/log/apache2/error.log -e {{ target_environment }} --min-date "{{ proposed_scanning_start }}" -xqq
+watch -n 60 "sudo python /tmp/parse_log.py /var/log/syslog /var/log/apache2/error.log -e {{ target_environment }} --min-date \"{{ proposed_scanning_start }}\" -xqq"
+sudo python /tmp/parse_log.py /var/log/syslog /var/log/apache2/error.log -e {{ target_environment }} --min-date "{{ proposed_scanning_start }}" -xi --backlog 2 > /tmp/{{ target_environment }}_errors_{{ target_versoin }}.txt
+vi /tmp/{{ target_environment }}_errors_{{ target_versoin }}.txt
+
+# syslog
+sudo python /tmp/parse_log.py /var/log/syslog -e {{ target_environment }} --min-date "{{ proposed_scanning_start }}" --backlog 7 -xi
+
+# apachelog
+sudo python /tmp/parse_log.py /var/log/apache2/error.log -e {{ target_environment }} --min-date "{{ proposed_scanning_start }}" --backlog 26 -xi
+
+# Honorable mentions
+sudo python /tmp/parse_log.py /var/log/syslog /var/log/apache2/error.log -qqqq
